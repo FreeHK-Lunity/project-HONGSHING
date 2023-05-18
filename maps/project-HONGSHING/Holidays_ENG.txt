@@ -1,0 +1,2996 @@
+-----------------1980------------------------------
+
+[holidays]
+19800324
+19800412
+Easter
+
+[holidays]
+19800524
+19800527
+Pentecost
+
+[holidays]
+19800717
+19800830
+Summer
+
+[holidays]
+19801025
+19801101
+Autumn
+
+[holidays]
+19801222
+19810106
+Christmas
+
+..............................
+
+[holiday]
+19800101
+New Year
+
+[holiday]
+19800404
+Good Friday
+
+[holiday]
+19800406
+Easter Sunday
+
+[holiday]
+19800407
+Easter Monday
+
+[holiday]
+19800501
+Labour Day
+
+[holiday]
+19800515
+Ascension Day
+
+[holiday]
+19800525
+Pentecost
+
+[holiday]
+19800526
+Pentecost
+
+[holiday]
+19800617
+German Unification Day
+
+[holiday]
+19801225
+Christmas Day
+
+[holiday]
+19801226
+Boxing Day
+
+-----------------1981------------------------------
+
+[holidays]
+19810404
+19810425
+Easter
+
+[holidays]
+19810606
+19810609
+Pentecost
+
+[holidays]
+19810702
+19810815
+Summer
+
+[holidays]
+19811024
+19811031
+Autumn
+
+[holidays]
+19811223
+19820106
+Christmas
+
+..............................
+
+[holiday]
+19810101
+New Year
+
+[holiday]
+19810417
+Good Friday
+
+[holiday]
+19810419
+Easter Sunday
+
+[holiday]
+19810420
+Easter Monday
+
+[holiday]
+19810501
+Labour Day
+
+[holiday]
+19810528
+Ascension Day
+
+[holiday]
+19810607
+Pentecost
+
+[holiday]
+19810608
+Pentecost
+
+[holiday]
+19810617
+German Unification Day
+
+[holiday]
+19811225
+Christmas Day
+
+[holiday]
+19811226
+Boxing Day
+
+-----------------1982------------------------------
+
+[holidays]
+19820329
+19820417
+Easter
+
+[holidays]
+19820529
+19820601
+Pentecost
+
+[holidays]
+19820624
+19820807
+Summer
+
+[holidays]
+19821004
+19821011
+Autumn
+
+[holidays]
+19821223
+19830108
+Christmas
+
+..............................
+
+[holiday]
+19820101
+New Year
+
+[holiday]
+19820501
+Labour Day
+
+[holiday]
+19820617
+German Unification Day
+
+[holiday]
+19821225
+Christmas Day
+
+[holiday]
+19821226
+Boxing Day
+
+
+
+[holiday]
+19820409
+Good Friday
+
+[holiday]
+19820411
+Easter Sunday
+
+[holiday]
+19820412
+Easter Monday
+
+[holiday]
+19820520
+Ascension Day
+
+[holiday]
+19820530
+Pentecost
+
+[holiday]
+19820531
+Pentecost
+
+
+-----------------1983------------------------------
+
+[holidays]
+19830321
+19830409
+Easter
+
+[holidays]
+19830521
+19830524
+Pentecost
+
+[holidays]
+19830616
+19830730
+Summer
+
+[holidays]
+19831003
+19831008
+Autumn
+
+[holidays]
+19831223
+19840107
+Christmas
+
+..............................
+
+[holiday]
+19830101
+New Year
+
+[holiday]
+19830501
+Labour Day
+
+[holiday]
+19830617
+German Unification Day
+
+[holiday]
+19831225
+Christmas Day
+
+[holiday]
+19831226
+Boxing Day
+
+
+
+[holiday]
+19830401
+Good Friday
+
+[holiday]
+19830403
+Easter Sunday
+
+[holiday]
+19830404
+Easter Monday
+
+[holiday]
+19830512
+Ascension Day
+
+[holiday]
+19830522
+Pentecost
+
+[holiday]
+19830523
+Pentecost
+
+
+-----------------1984------------------------------
+
+[holidays]
+19840407
+19840430
+Easter
+
+[holidays]
+19840609
+19840612
+Pentecost
+
+[holidays]
+19840719
+19840901
+Summer
+
+[holidays]
+19841027
+19841103
+Autumn
+
+[holidays]
+19841222
+19850105
+Christmas
+
+..............................
+
+[holiday]
+19840101
+New Year
+
+[holiday]
+19840501
+Labour Day
+
+[holiday]
+19840617
+German Unification Day
+
+[holiday]
+19841225
+Christmas Day
+
+[holiday]
+19841226
+Boxing Day
+
+
+
+[holiday]
+19840420
+Good Friday
+
+[holiday]
+19840422
+Easter Sunday
+
+[holiday]
+19840423
+Easter Monday
+
+[holiday]
+19840531
+Ascension Day
+
+[holiday]
+19840610
+Pentecost
+
+[holiday]
+19840611
+Pentecost
+
+
+-----------------1985------------------------------
+
+[holidays]
+19850323
+19850413
+Easter
+
+[holidays]
+19850525
+19850528
+Pentecost
+
+[holidays]
+19850718
+19850831
+Summer
+
+[holidays]
+19851026
+19851102
+Autumn
+
+[holidays]
+19851223
+19860106
+Christmas
+
+..............................
+
+[holiday]
+19850101
+New Year
+
+[holiday]
+19850501
+Labour Day
+
+[holiday]
+19850617
+German Unification Day
+
+[holiday]
+19851225
+Christmas Day
+
+[holiday]
+19851226
+Boxing Day
+
+
+
+[holiday]
+19850405
+Good Friday
+
+[holiday]
+19850407
+Easter Sunday
+
+[holiday]
+19850408
+Easter Monday
+
+[holiday]
+19850516
+Ascension Day
+
+[holiday]
+19850526
+Pentecost
+
+[holiday]
+19850527
+Pentecost
+
+
+-----------------1986------------------------------
+
+[holidays]
+19860315
+19860405
+Easter
+
+[holidays]
+19860517
+19860520
+Pentecost
+
+[holidays]
+19860703
+19860816
+Summer
+
+[holidays]
+19861025
+19861101
+Autumn
+
+[holidays]
+19861222
+19870106
+Christmas
+
+..............................
+
+[holiday]
+19860101
+New Year
+
+[holiday]
+19860501
+Labour Day
+
+[holiday]
+19860617
+German Unification Day
+
+[holiday]
+19861225
+Christmas Day
+
+[holiday]
+19861226
+Boxing Day
+
+
+
+[holiday]
+19860318
+Good Friday
+
+[holiday]
+19860320
+Easter Sunday
+
+[holiday]
+19860321
+Easter Monday
+
+[holiday]
+19860428
+Ascension Day
+
+[holiday]
+19860508
+Pentecost
+
+[holiday]
+19860509
+Pentecost
+
+
+-----------------1987------------------------------
+
+[holidays]
+19870402
+19870421
+Easter
+
+[holidays]
+19870601
+19870609
+Pentecost
+
+[holidays]
+19870709
+19870822
+Summer
+
+[holidays]
+19871003
+19871010
+Autumn
+
+[holidays]
+19871223
+19880106
+Christmas
+
+..............................
+
+[holiday]
+19870101
+New Year
+
+[holiday]
+19870501
+Labour Day
+
+[holiday]
+19870617
+German Unification Day
+
+[holiday]
+19871225
+Christmas Day
+
+[holiday]
+19871226
+Boxing Day
+
+
+
+[holiday]
+19870417
+Good Friday
+
+[holiday]
+19870419
+Easter Sunday
+
+[holiday]
+19870420
+Easter Monday
+
+[holiday]
+19870528
+Ascension Day
+
+[holiday]
+19870607
+Pentecost
+
+[holiday]
+19870608
+Pentecost
+
+-----------------1988------------------------------
+
+[holidays]
+19880319
+19880409
+Easter
+
+[holidays]
+19880524
+19880524
+Pentecost
+
+[holidays]
+19880623
+19880806
+Summer
+
+[holidays]
+19881001
+19881008
+Autumn
+
+[holidays]
+19881223
+19890107
+Christmas
+
+..............................
+
+[holiday]
+19880101
+New Year
+
+[holiday]
+19880501
+Labour Day
+
+[holiday]
+19880617
+German Unification Day
+
+[holiday]
+19881225
+Christmas Day
+
+[holiday]
+19881226
+Boxing Day
+
+
+
+[holiday]
+19880401
+Good Friday
+
+[holiday]
+19880403
+Easter Sunday
+
+[holiday]
+19880404
+Easter Monday
+
+[holiday]
+19880512
+Ascension Day
+
+[holiday]
+19880522
+Pentecost
+
+[holiday]
+19880523
+Pentecost
+
+-----------------1989------------------------------
+
+[holidays]
+19890317
+19890401
+Easter
+
+[holidays]
+19890513
+19890520
+Pentecost
+
+[holidays]
+19890720
+19890902
+Summer
+
+[holidays]
+19891028
+19891104
+Autumn
+
+[holidays]
+19891223
+19900106
+Christmas
+
+..............................
+
+[holiday]
+19890101
+New Year
+
+[holiday]
+19890501
+Labour Day
+
+[holiday]
+19890617
+German Unification Day
+
+[holiday]
+19891225
+Christmas Day
+
+[holiday]
+19891226
+Boxing Day
+
+
+
+[holiday]
+19890324
+Good Friday
+
+[holiday]
+19890326
+Easter Sunday
+
+[holiday]
+19890327
+Easter Monday
+
+[holiday]
+19890504
+Ascension Day
+
+[holiday]
+19890514
+Pentecost
+
+[holiday]
+19890515
+Pentecost
+
+-----------------1990------------------------------
+
+[holidays]
+19900127
+19900210
+Winter
+
+[holidays]
+19900407
+19900421
+Easter
+
+[holidays]
+19900602
+19900605
+Pentecost
+
+[holidays]
+19900712
+19900825
+Summer
+
+[holidays]
+19901027
+19901103
+Autumn
+
+[holidays]
+19901222
+19910105
+Christmas
+
+..............................
+
+[holiday]
+19900101
+New Year
+
+[holiday]
+19900501
+Labour Day
+
+[holiday]
+19900617
+German Unification Day
+
+[holiday]
+19901003
+German Unification Day
+
+[holiday]
+19901225
+Christmas Day
+
+[holiday]
+19901226
+Boxing Day
+
+
+
+[holiday]
+19900413
+Good Friday
+
+[holiday]
+19900415
+Easter Sunday
+
+[holiday]
+19900416
+Easter Monday
+
+[holiday]
+19900524
+Ascension Day
+
+[holiday]
+19900603
+Pentecost
+
+[holiday]
+19900604
+Pentecost
+
+-----------------1991------------------------------
+
+[holidays]
+19910316
+19910406
+Easter
+
+[holidays]
+19910518
+19910521
+Pentecost
+
+[holidays]
+19910704
+19910821
+Summer
+
+[holidays]
+19911026
+19911102
+Autumn
+
+[holidays]
+19911223
+19920106
+Christmas
+
+..............................
+
+[holiday]
+19910101
+New Year
+
+[holiday]
+19910501
+Labour Day
+
+[holiday]
+19911003
+German Unification Day
+
+[holiday]
+19911225
+Christmas Day
+
+[holiday]
+19911226
+Boxing Day
+
+
+
+[holiday]
+19910329
+Good Friday
+
+[holiday]
+19910331
+Easter Sunday
+
+[holiday]
+19910401
+Easter Monday
+
+[holiday]
+19910509
+Ascension Day
+
+[holiday]
+19910519
+Pentecost
+
+[holiday]
+19910520
+Pentecost
+
+-----------------1992------------------------------
+
+[holidays]
+19920404
+19920425
+Easter
+
+[holidays]
+19920606
+19920609
+Pentecost
+
+[holidays]
+19920626
+19920808
+Summer
+
+[holidays]
+19921002
+19921103
+Autumn
+
+[holidays]
+19921223
+19930106
+Christmas
+
+..............................
+
+[holiday]
+19920101
+New Year
+
+[holiday]
+19920501
+Labour Day
+
+[holiday]
+19921003
+German Unification Day
+
+[holiday]
+19921225
+Christmas Day
+
+[holiday]
+19921226
+Boxing Day
+
+
+
+[holiday]
+19920417
+Good Friday
+
+[holiday]
+19920419
+Easter Sunday
+
+[holiday]
+19920420
+Easter Monday
+
+[holiday]
+19920528
+Ascension Day
+
+[holiday]
+19920607
+Pentecost
+
+[holiday]
+19920608
+Pentecost
+
+-----------------1993------------------------------
+
+[holidays]
+19930130
+19930213
+Winter
+
+[holidays]
+19930403
+19930417
+Easter
+
+[holidays]
+19930624
+19930804
+Summer
+
+[holidays]
+19931002
+19931009
+Autumn
+
+[holidays]
+19931223
+19940103
+Christmas
+
+..............................
+
+[holiday]
+19930101
+New Year
+
+[holiday]
+19930501
+Labour Day
+
+[holiday]
+19931003
+German Unification Day
+
+[holiday]
+19931225
+Christmas Day
+
+[holiday]
+19931226
+Boxing Day
+
+
+
+[holiday]
+19930409
+Good Friday
+
+[holiday]
+19930411
+Easter Sunday
+
+[holiday]
+19930412
+Easter Monday
+
+[holiday]
+19930520
+Ascension Day
+
+[holiday]
+19930530
+Pentecost
+
+[holiday]
+19930531
+Pentecost
+
+-----------------1994------------------------------
+
+[holidays]
+19940129
+19940212
+Winter
+
+[holidays]
+19940326
+19940409
+Easter
+
+[holidays]
+19940521
+19940528
+Pentecost
+
+[holidays]
+19940714
+19940824
+Summer
+
+[holidays]
+19941022
+19941029
+Autumn
+
+[holidays]
+19941224
+19950104
+Christmas
+
+..............................
+
+[holiday]
+19940101
+New Year
+
+[holiday]
+19940501
+Labour Day
+
+[holiday]
+19941003
+German Unification Day
+
+[holiday]
+19941225
+Christmas Day
+
+[holiday]
+19941226
+Boxing Day
+
+
+
+[holiday]
+19940401
+Good Friday
+
+[holiday]
+19940403
+Easter Sunday
+
+[holiday]
+19940404
+Easter Monday
+
+[holiday]
+19940512
+Ascension Day
+
+[holiday]
+19940522
+Pentecost
+
+[holiday]
+19940523
+Pentecost
+
+
+-----------------1995------------------------------
+
+[holidays]
+19950211
+19950225
+Winter
+
+[holidays]
+19950414
+19950502
+Easter
+
+[holidays]
+19950629
+19950710
+Summer
+
+[holidays]
+19950930
+19951007
+Autumn
+
+[holidays]
+19951223
+19960103
+Christmas
+
+..............................
+
+[holiday]
+19950101
+New Year
+
+[holiday]
+19950501
+Labour Day
+
+[holiday]
+19951003
+German Unification Day
+
+[holiday]
+19951225
+Christmas Day
+
+[holiday]
+19951226
+Boxing Day
+
+
+
+[holiday]
+19950414
+Good Friday
+
+[holiday]
+19950416
+Easter Sunday
+
+[holiday]
+19950417
+Easter Monday
+
+[holiday]
+19950525
+Ascension Day
+
+[holiday]
+19950604
+Pentecost
+
+[holiday]
+19950605
+Pentecost
+
+
+-----------------1996------------------------------
+
+[holidays]
+19960203
+19960217
+Winter
+
+[holidays]
+19960330
+19960413
+Easter
+
+[holidays]
+19960517
+19960517
+Pentecost
+
+[holidays]
+19960620
+19960803
+Summer
+
+[holidays]
+19960928
+19961005
+Autumn
+
+[holidays]
+19961221
+19970104
+Christmas
+
+..............................
+
+[holiday]
+19960101
+New Year
+
+[holiday]
+19960501
+Labour Day
+
+[holiday]
+19961003
+German Unification Day
+
+[holiday]
+19961225
+Christmas Day
+
+[holiday]
+19961226
+Boxing Day
+
+
+
+[holiday]
+19960405
+Good Friday
+
+[holiday]
+19960407
+Easter Sunday
+
+[holiday]
+19960408
+Easter Monday
+
+[holiday]
+19960516
+Ascension Day
+
+[holiday]
+19960526
+Pentecost
+
+[holiday]
+19960527
+Pentecost
+
+
+-----------------1997------------------------------
+
+[holidays]
+19970308
+19970331
+Easter
+
+[holidays]
+19970509
+19970509
+Pentecost
+
+[holidays]
+19970619
+19970802
+Summer
+
+[holidays]
+19971003
+19971018
+Autumn
+
+[holidays]
+19971224
+19980103
+Christmas
+
+..............................
+
+[holiday]
+19970101
+New Year
+
+[holiday]
+19970501
+Labour Day
+
+[holiday]
+19971003
+German Unification Day
+
+[holiday]
+19971225
+Christmas Day
+
+[holiday]
+19971226
+Boxing Day
+
+
+
+[holiday]
+19970328
+Good Friday
+
+[holiday]
+19970330
+Easter Sunday
+
+[holiday]
+19970331
+Easter Monday
+
+[holiday]
+19970508
+Ascension Day
+
+[holiday]
+19970518
+Pentecost
+
+[holiday]
+19970519
+Pentecost
+
+-----------------1998------------------------------
+
+[holidays]
+19980221
+19980228
+Winter
+
+[holidays]
+19980404
+19980425
+Easter
+
+[holidays]
+19980522
+19980522
+Pentecost
+
+[holidays]
+19980709
+19980822
+Summer
+
+[holidays]
+19981017
+19981024
+Autumn
+
+[holidays]
+19981224
+19990102
+Christmas
+
+..............................
+
+[holiday]
+19980101
+New Year
+
+[holiday]
+19980501
+Labour Day
+
+[holiday]
+19981003
+German Unification Day
+
+[holiday]
+19981225
+Christmas Day
+
+[holiday]
+19981226
+Boxing Day
+
+
+
+[holiday]
+19980410
+Good Friday
+
+[holiday]
+19980412
+Easter Sunday
+
+[holiday]
+19980413
+Easter Monday
+
+[holiday]
+19980521
+Ascension Day
+
+[holiday]
+19980531
+Pentecost
+
+[holiday]
+19980601
+Pentecost
+
+-----------------1999------------------------------
+
+[holidays]
+19990130
+19990213
+Winter
+
+[holidays]
+19990403
+19990417
+Easter
+
+[holidays]
+19990514
+19990514
+Pentecost
+
+[holidays]
+19990715
+19990828
+Summer
+
+[holidays]
+19991016
+19991023
+Autumn
+
+[holidays]
+19991223
+19991231
+Christmas
+
+-----------------1998------------------------------
+
+[holidays]
+19980221
+19980228
+Winter
+
+[holidays]
+19980404
+19980425
+Easter
+
+[holidays]
+19980522
+19980522
+Pentecost
+
+[holidays]
+19980709
+19980822
+Summer
+
+[holidays]
+19981017
+19981024
+Autumn
+
+[holidays]
+19981224
+19990102
+Christmas
+
+..............................
+
+[holiday]
+19990101
+New Year
+
+[holiday]
+19990501
+Labour Day
+
+[holiday]
+19991003
+German Unification Day
+
+[holiday]
+19991225
+Christmas Day
+
+[holiday]
+19991226
+Boxing Day
+
+
+
+[holiday]
+19990402
+Good Friday
+
+[holiday]
+19990404
+Easter Sunday
+
+[holiday]
+19990405
+Easter Monday
+
+[holiday]
+19990513
+Ascension Day
+
+[holiday]
+19990523
+Pentecost
+
+[holiday]
+19990524
+Pentecost
+
+-----------------2000------------------------------
+
+[holidays]
+20000129
+20000209
+Winter
+
+[holidays]
+20000420
+20000506
+Easter
+
+[holidays]
+20000602
+20000602
+Pentecost
+
+[holidays]
+20000610
+20000613
+Pentecost
+
+[holidays]
+20000720
+20000902
+Summer
+
+[holidays]
+20001028
+20001104
+Autumn
+
+[holidays]
+20001223
+20010102
+Christmas
+
+..............................
+
+[holiday]
+20000101
+New Year
+
+[holiday]
+20000501
+Labour Day
+
+[holiday]
+20001003
+German Unification Day
+
+[holiday]
+20001225
+Christmas Day
+
+[holiday]
+20001226
+Boxing Day
+
+
+
+[holiday]
+20000421
+Good Friday
+
+[holiday]
+20000423
+Easter Sunday
+
+[holiday]
+20000424
+Easter Monday
+
+[holiday]
+20000601
+Ascension Day
+
+[holiday]
+20000611
+Pentecost
+
+[holiday]
+20000612
+Pentecost
+
+-----------------2001------------------------------
+
+[holidays]
+20010203
+20010217
+Winter
+
+[holidays]
+20010414
+20010430
+Easter
+
+[holidays]
+20010525
+20010525
+Pentecost
+
+[holidays]
+20010719
+20010901
+Summer
+
+[holidays]
+20011027
+20011103
+Autumn
+
+[holidays]
+20011222
+20020105
+Christmas
+
+..............................
+
+[holiday]
+20010101
+New Year
+
+[holiday]
+20010501
+Labour Day
+
+[holiday]
+20011003
+German Unification Day
+
+[holiday]
+20011225
+Christmas Day
+
+[holiday]
+20011226
+Boxing Day
+
+
+
+[holiday]
+20010413
+Good Friday
+
+[holiday]
+20010415
+Easter Sunday
+
+[holiday]
+20010416
+Easter Monday
+
+[holiday]
+20010524
+Ascension Day
+
+[holiday]
+20010603
+Pentecost
+
+[holiday]
+20010604
+Pentecost
+
+-----------------2002------------------------------
+
+[holidays]
+20020201
+20020209
+Winter
+
+[holidays]
+20020323
+20020406
+Easter
+
+[holidays]
+20020510
+20020510
+Pentecost
+
+[holidays]
+20020518
+20020521
+Pentecost
+
+[holidays]
+20020704
+20020817
+Summer
+
+[holidays]
+20021004
+20021004
+Autumn
+
+[holidays]
+20021007
+20021019
+Autumn
+
+[holidays]
+20021223
+20030103
+Christmas
+
+..............................
+
+[holiday]
+20020101
+New Year
+
+[holiday]
+20020501
+Labour Day
+
+[holiday]
+20021003
+German Unification Day
+
+[holiday]
+20021225
+Christmas Day
+
+[holiday]
+20021226
+Boxing Day
+
+
+
+[holiday]
+20020329
+Good Friday
+
+[holiday]
+20020331
+Easter Sunday
+
+[holiday]
+20020401
+Easter Monday
+
+[holiday]
+20020509
+Ascension Day
+
+[holiday]
+20020519
+Pentecost
+
+[holiday]
+20020520
+Pentecost
+
+-----------------2003------------------------------
+
+[holidays]
+20030203
+20030208
+Winter
+
+[holidays]
+20030414
+20030425
+Easter
+
+[holidays]
+20030528
+20030528
+Pentecost
+
+[holidays]
+20030530
+20030530
+Pentecost
+
+[holidays]
+20030703
+20030816
+Summer
+
+[holidays]
+20031006
+20031018
+Autumn
+
+[holidays]
+20031222
+20040102
+Christmas
+
+..............................
+
+[holiday]
+20030101
+New Year
+
+[holiday]
+20030501
+Labour Day
+
+[holiday]
+20031003
+German Unification Day
+
+[holiday]
+20031225
+Christmas Day
+
+[holiday]
+20031226
+Boxing Day
+
+
+
+[holiday]
+20030418
+Good Friday
+
+[holiday]
+20030420
+Easter Sunday
+
+[holiday]
+20030421
+Easter Monday
+
+[holiday]
+20030529
+Ascension Day
+
+[holiday]
+20030608
+Pentecost
+
+[holiday]
+20030609
+Pentecost
+
+
+-----------------2004------------------------------
+
+[holidays]
+20040202
+20040207
+Winter
+
+[holidays]
+20040405
+20040416
+Easter
+
+[holidays]
+20040521
+20040521
+Pentecost
+
+[holidays]
+20040624
+20040807
+Summer
+
+[holidays]
+20041004
+20041016
+Autumn
+
+[holidays]
+20041223
+20041231
+Christmas
+
+..............................
+
+[holiday]
+20040101
+New Year
+
+[holiday]
+20040501
+Labour Day
+
+[holiday]
+20041003
+German Unification Day
+
+[holiday]
+20041225
+Christmas Day
+
+[holiday]
+20041226
+Boxing Day
+
+
+
+[holiday]
+20040409
+Good Friday
+
+[holiday]
+20040411
+Easter Sunday
+
+[holiday]
+20040412
+Easter Monday
+
+[holiday]
+20040520
+Ascension Day
+
+[holiday]
+20040530
+Pentecost
+
+[holiday]
+20040531
+Pentecost
+
+-----------------2005------------------------------
+
+[holidays]
+20050124
+20050129
+Winter
+
+[holidays]
+20050323
+20050401
+Easter
+
+[holidays]
+20050506
+20050506
+Pentecost
+
+[holidays]
+20050517
+20050521
+Pentecost
+
+[holidays]
+20050623
+20050806
+Summer
+
+[holidays]
+20051004
+20051015
+Autumn
+
+[holidays]
+20051222
+20060103
+Christmas
+
+..............................
+
+[holiday]
+20050101
+New Year
+
+[holiday]
+20050501
+Labour Day
+
+[holiday]
+20051003
+German Unification Day
+
+[holiday]
+20051225
+Christmas Day
+
+[holiday]
+20051226
+Boxing Day
+
+
+
+[holiday]
+20050325
+Good Friday
+
+[holiday]
+20050327
+Easter Sunday
+
+[holiday]
+20050328
+Easter Monday
+
+[holiday]
+20050505
+Ascension Day
+
+[holiday]
+20050515
+Pentecost
+
+[holiday]
+20050516
+Pentecost
+
+-----------------2006------------------------------
+
+[holidays]
+20060130
+20060203
+Winter
+
+[holidays]
+20060410
+20060422
+Easter
+
+[holidays]
+20060526
+20060526
+Pentecost
+
+[holidays]
+20060705
+20060818
+Summer
+
+[holidays]
+20061002
+20061014
+Autumn
+
+[holidays]
+20061227
+20070105
+Christmas
+
+..............................
+
+[holiday]
+20060101
+New Year
+
+[holiday]
+20060501
+Labour Day
+
+[holiday]
+20061003
+German Unification Day
+
+[holiday]
+20061225
+Christmas Day
+
+[holiday]
+20061226
+Boxing Day
+
+
+
+[holiday]
+20060414
+Good Friday
+
+[holiday]
+20060416
+Easter Sunday
+
+[holiday]
+20060417
+Easter Monday
+
+[holiday]
+20060525
+Ascension Day
+
+[holiday]
+20060604
+Pentecost
+
+[holiday]
+20060605
+Pentecost
+
+-----------------2007------------------------------
+
+[holidays]
+20070205
+20070210
+Winter
+
+[holidays]
+20070402
+20070413
+Easter
+
+[holidays]
+20070430
+20070430
+Easter
+
+[holidays]
+20070518
+20070518
+Pentecost
+
+[holidays]
+20070712
+20070825
+Summer
+
+[holidays]
+20071015
+20071020
+Autumn
+
+[holidays]
+20071224
+20080112
+Christmas
+
+..............................
+
+[holiday]
+20070101
+New Year
+
+[holiday]
+20070501
+Labour Day
+
+[holiday]
+20071003
+German Unification Day
+
+[holiday]
+20071225
+Christmas Day
+
+[holiday]
+20071226
+Boxing Day
+
+
+
+[holiday]
+20070406
+Good Friday
+
+[holiday]
+20070408
+Easter Sunday
+
+[holiday]
+20070409
+Easter Monday
+
+[holiday]
+20070517
+Ascension Day
+
+[holiday]
+20070527
+Pentecost
+
+[holiday]
+20070528
+Pentecost
+
+-----------------2008------------------------------
+
+[holidays]
+20080204
+20080204
+Winter
+
+[holidays]
+20080317
+20080329
+Easter
+
+[holidays]
+20080502
+20080502
+Pentecost
+
+[holidays]
+20080513
+20080516
+Pentecost
+
+[holidays]
+20080716
+20080829
+Summer
+
+[holidays]
+20081020
+20081031
+Autumn
+
+[holidays]
+20081222
+20090103
+Christmas
+
+..............................
+
+[holiday]
+20080101
+New Year
+
+[holiday]
+20080501
+Labour Day
+
+[holiday]
+20081003
+German Unification Day
+
+[holiday]
+20081225
+Christmas Day
+
+[holiday]
+20081226
+Boxing Day
+
+
+
+[holiday]
+20080321
+Good Friday
+
+[holiday]
+20080323
+Easter Sunday
+
+[holiday]
+20080324
+Easter Monday
+
+[holiday]
+20080501
+Ascension Day
+
+[holiday]
+20080511
+Pentecost
+
+[holiday]
+20080512
+Pentecost
+
+
+-----------------2009------------------------------
+
+[holidays]
+20090202
+20090207
+Winter
+
+[holidays]
+20090406
+20090418
+Easter
+
+[holidays]
+20090522
+20090522
+Pentecost
+
+[holidays]
+20090715
+20090828
+Summer
+
+[holidays]
+20091019
+20091030
+Autumn
+
+[holidays]
+20091221
+20100102
+Christmas
+
+..............................
+
+[holiday]
+20090101
+New Year
+
+[holiday]
+20090501
+Labour Day
+
+[holiday]
+20091003
+German Unification Day
+
+[holiday]
+20091225
+Christmas Day
+
+[holiday]
+20091226
+Boxing Day
+
+
+
+[holiday]
+20090410
+Good Friday
+
+[holiday]
+20090412
+Easter Sunday
+
+[holiday]
+20090413
+Easter Monday
+
+[holiday]
+20090521
+Ascension Day
+
+[holiday]
+20090531
+Pentecost
+
+[holiday]
+20090601
+Pentecost
+
+-----------------2010------------------------------
+
+[holidays]
+20100201
+20100206
+Winter
+
+[holidays]
+20100331
+20100410
+Easter
+
+[holidays]
+20100514
+20100514
+Pentecost
+
+[holidays]
+20100525
+20100525
+Pentecost
+
+[holidays]
+20100707
+20100821
+Summer
+
+[holidays]
+20101011
+20101023
+Autumn
+
+[holidays]
+20101223
+20110101
+Christmas
+
+..............................
+
+[holiday]
+20100101
+New Year
+
+[holiday]
+20100501
+Labour Day
+
+[holiday]
+20101003
+German Unification Day
+
+[holiday]
+20101225
+Christmas Day
+
+[holiday]
+20101226
+Boxing Day
+
+
+
+[holiday]
+20100402
+Good Friday
+
+[holiday]
+20100404
+Easter Sunday
+
+[holiday]
+20100405
+Easter Monday
+
+[holiday]
+20100513
+Ascension Day
+
+[holiday]
+20100523
+Pentecost
+
+[holiday]
+20100524
+Pentecost
+
+-----------------2011------------------------------
+
+[holidays]
+20110131
+20110205
+Winter
+
+[holidays]
+20110418
+20110430
+Easter
+
+[holidays]
+20110603
+20110603
+Pentecost
+
+[holidays]
+20110629
+20110812
+Summer
+
+[holidays]
+20111004
+20111014
+Autumn
+
+[holidays]
+20111223
+20120103
+Christmas
+
+..............................
+
+[holiday]
+20110101
+New Year
+
+[holiday]
+20110501
+Labour Day
+
+[holiday]
+20111003
+German Unification Day
+
+[holiday]
+20111225
+Christmas Day
+
+[holiday]
+20111226
+Boxing Day
+
+
+
+[holiday]
+20110422
+Good Friday
+
+[holiday]
+20110424
+Easter Sunday
+
+[holiday]
+20110425
+Easter Monday
+
+[holiday]
+20110602
+Ascension Day
+
+[holiday]
+20110612
+Pentecost
+
+[holiday]
+20110613
+Pentecost
+
+-----------------2012------------------------------
+
+[holidays]
+20120130
+20120204
+Winter
+
+[holidays]
+20120402
+20120414
+Easter
+
+[holidays]
+20120430
+20120430
+Easter
+
+[holidays]
+20120518
+20120518
+Pentecost
+
+[holidays]
+20120620
+20120803
+Summer
+
+[holidays]
+20121001
+20121013
+Autumn
+
+[holidays]
+20121224
+20130104
+Christmas
+
+..............................
+
+[holiday]
+20120101
+New Year
+
+[holiday]
+20120501
+Labour Day
+
+[holiday]
+20121003
+German Unification Day
+
+[holiday]
+20121225
+Christmas Day
+
+[holiday]
+20121226
+Boxing Day
+
+
+
+[holiday]
+20120406
+Good Friday
+
+[holiday]
+20120408
+Easter Sunday
+
+[holiday]
+20120409
+Easter Monday
+
+[holiday]
+20120517
+Ascension Day
+
+[holiday]
+20120527
+Pentecost
+
+[holiday]
+20120528
+Pentecost
+
+-----------------2013------------------------------
+
+[holidays]
+20130204
+20130209
+Winter
+
+[holidays]
+20130325
+20130406
+Easter
+
+[holidays]
+20130510
+20130510
+Pentecost
+
+[holidays]
+20130521
+20130521
+Pentecost
+
+[holidays]
+20130619
+20130802
+Summer
+
+[holidays]
+20130930
+20131012
+Autumn
+
+[holidays]
+20131223
+20140103
+Christmas
+
+..............................
+
+[holiday]
+20130101
+New Year
+
+[holiday]
+20130501
+Labour Day
+
+[holiday]
+20131003
+German Unification Day
+
+[holiday]
+20131225
+Christmas Day
+
+[holiday]
+20131226
+Boxing Day
+
+
+
+[holiday]
+20130329
+Good Friday
+
+[holiday]
+20130331
+Easter Sunday
+
+[holiday]
+20130401
+Easter Monday
+
+[holiday]
+20130509
+Ascension Day
+
+[holiday]
+20130519
+Pentecost
+
+[holiday]
+20130520
+Pentecost
+
+
+-----------------2014------------------------------
+
+[holidays]
+20140203
+20140208
+Winter
+
+[holidays]
+20140414
+20140426
+Easter
+
+[holidays]
+20140502
+20140502
+Ascension Day
+
+[holidays]
+20140530
+20140530
+Pentecost
+
+[holidays]
+20140709
+20140822
+Summer
+
+[holidays]
+20141020
+20141101
+Autumn
+
+[holidays]
+20141222
+20150102
+Christmas
+
+..............................
+
+[holiday]
+20140101
+New Year
+
+[holiday]
+20140501
+Labour Day
+
+[holiday]
+20141003
+German Unification Day
+
+[holiday]
+20141225
+Christmas Day
+
+[holiday]
+20141226
+Boxing Day
+
+
+
+[holiday]
+20140418
+Good Friday
+
+[holiday]
+20140420
+Easter Sunday
+
+[holiday]
+20140421
+Easter Monday
+
+[holiday]
+20140529
+Ascension Day
+
+[holiday]
+20140608
+Pentecost
+
+[holiday]
+20140609
+Pentecost
+
+
+
+-----------------2015------------------------------
+
+[holidays]
+20150202
+20150207
+Winter
+
+[holidays]
+20150330
+20150411
+Easter
+
+[holidays]
+20150515
+20150515
+Ascension Day
+
+[holidays]
+20150526
+20150526
+Pentecost
+
+[holidays]
+20150716
+20150828
+Summer
+
+[holidays]
+20151019
+20151031
+Autumn
+
+[holidays]
+20151223
+20160102
+Christmas
+
+..............................
+
+[holiday]
+20150101
+Newyear
+
+[holiday]
+20150501
+Labour Day
+
+[holiday]
+20151003
+German Unification Day
+
+[holiday]
+20151225
+Christmas Day
+
+[holiday]
+20151226
+Boxing Day
+
+
+
+[holiday]
+20150403
+Good Friday
+
+[holiday]
+20150405
+Easter Sunday
+
+[holiday]
+20150406
+Easter Monday
+
+[holiday]
+20150514
+Ascension Day
+
+[holiday]
+20150524
+Pentecost
+
+[holiday]
+20150525
+Pentecost
+
+
+-----------------2016------------------------------
+
+[holidays]
+20160201
+20160206
+Winter
+
+[holidays]
+20160321
+20160402
+Easter
+
+[holidays]
+20160506
+20160506
+Ascension Day
+
+[holidays]
+20160517
+20160518
+Pentecost
+
+[holidays]
+20160721
+20160902
+Summer
+
+[holidays]
+20161017
+20161028
+Autumn
+
+[holidays]
+20161223
+20170103
+Christmas
+
+..............................
+
+[holiday]
+20160101
+Newyear
+
+[holiday]
+20160501
+Labour Day
+
+[holiday]
+20161003
+German Unification Day
+
+[holiday]
+20161225
+Christmas Day
+
+[holiday]
+20161226
+Boxing Day
+
+
+
+[holiday]
+20160325
+Good Friday
+
+[holiday]
+20160327
+Easter Sunday
+
+[holiday]
+20160328
+Easter Monday
+
+[holiday]
+20160505
+Ascension Day
+
+[holiday]
+20160515
+Pentecost
+
+[holiday]
+20160516
+Pentecost
+

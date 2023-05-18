@@ -1,0 +1,204 @@
+
+	[group]
+	<aigroup-name>
+	<density factor> will be multiplied with traffic density functions
+
+[group]
+NormalCars
+0.6
+
+	[set_day_of_week]
+	0 = all days - else: +1 = weekday, +2 = saturday, +4 = sunday
+
+	[trafficdensity]
+	<time> (hours)
+	<density> (can be > 1 !)
+
+
+[set_day_of_week]
+0
+
+[trafficdensity]
+0.000
+0.100
+
+[trafficdensity]
+4.000
+0.010
+
+[trafficdensity]
+6.000
+1.000
+
+[trafficdensity]
+7.000
+1.500
+
+[trafficdensity]
+8.000
+1.000
+
+[trafficdensity]
+10.000
+0.500
+
+[trafficdensity]
+15.000
+0.600
+
+[trafficdensity]
+16.000
+1.000
+
+[trafficdensity]
+17.000
+1.500
+
+[trafficdensity]
+20.000
+0.400
+
+[trafficdensity]
+24.000
+0.100
+
+===============================================
+
+
+[group]
+Ambulance
+0.01
+
+	[set_day_of_week]
+	0 = all days - else: +1 = weekday, +2 = saturday, +4 = sunday
+
+	[trafficdensity]
+	<time> (hours)
+	<density> (can be > 1 !)
+
+
+[set_day_of_week]
+0
+
+[trafficdensity]
+0.000
+0.700
+
+[trafficdensity]
+4.000
+1.000
+
+[trafficdensity]
+7.000
+0.700
+
+===============================================
+
+
+[group]
+Trucks
+0.3
+
+	[set_day_of_week]
+	0 = all days - else: +1 = weekday, +2 = saturday, +4 = sunday
+
+	[trafficdensity]
+	<time> (hours)
+	<density> (can be > 1 !)
+
+
+[set_day_of_week]
+3
+
+[trafficdensity]
+0.000
+0.100
+
+[trafficdensity]
+4.000
+0.010
+
+[trafficdensity]
+6.000
+1.500
+
+[trafficdensity]
+8.000
+1.000
+
+[trafficdensity]
+16.000
+1.000
+
+[trafficdensity]
+17.000
+1.500
+
+[trafficdensity]
+18.000
+0.100
+
+.......................
+
+[set_day_of_week]
+4
+
+[trafficdensity]
+0.000
+0.000
+
+
+===============================================
+
+
+[group]
+Commercials
+0.3
+
+	[set_day_of_week]
+	0 = all days - else: +1 = weekday, +2 = saturday, +4 = sunday
+
+	[trafficdensity]
+	<time> (hours)
+	<density> (can be > 1 !)
+
+
+[set_day_of_week]
+3
+
+[trafficdensity]
+0.000
+0.100
+
+[trafficdensity]
+4.000
+0.010
+
+[trafficdensity]
+6.000
+1.500
+
+[trafficdensity]
+8.000
+1.000
+
+[trafficdensity]
+16.000
+1.000
+
+[trafficdensity]
+17.000
+1.500
+
+[trafficdensity]
+18.000
+0.100
+
+.......................
+
+[set_day_of_week]
+4
+
+[trafficdensity]
+0.000
+0.000

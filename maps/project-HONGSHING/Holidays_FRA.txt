@@ -1,0 +1,2995 @@
+-----------------1980------------------------------
+
+[holidays]
+19800324
+19800412
+Pâques
+
+[holidays]
+19800524
+19800527
+Pentecôte
+
+[holidays]
+19800717
+19800830
+Eté
+
+[holidays]
+19801025
+19801101
+Automne
+
+[holidays]
+19801222
+19810106
+Noël
+
+..............................
+
+[holiday]
+19800101
+Nouvel an
+
+[holiday]
+19800404
+Vendredi saint
+
+[holiday]
+19800406
+Dimanche de Pâques
+
+[holiday]
+19800407
+Lundi de Pâques
+
+[holiday]
+19800501
+Fête du travail
+
+[holiday]
+19800515
+L'Ascension
+
+[holiday]
+19800525
+Dimanche de Pentecôte
+
+[holiday]
+19800526
+Lundi de Pentecôte
+
+[holiday]
+19800617
+Journée de la réunification
+
+[holiday]
+19801225
+Le jour de Noël
+
+[holiday]
+19801226
+Le lendemain de Noël
+
+-----------------1981------------------------------
+
+[holidays]
+19810404
+19810425
+Pâques
+
+[holidays]
+19810606
+19810609
+Pentecôte
+
+[holidays]
+19810702
+19810815
+Eté
+
+[holidays]
+19811024
+19811031
+Automne
+
+[holidays]
+19811223
+19820106
+Noël
+
+..............................
+
+[holiday]
+19810101
+Nouvel an
+
+[holiday]
+19810417
+Vendredi saint
+
+[holiday]
+19810419
+Dimanche de Pâques
+
+[holiday]
+19810420
+Lundi de Pâques
+
+[holiday]
+19810501
+Fête du travail
+
+[holiday]
+19810528
+L'Ascension
+
+[holiday]
+19810607
+Dimanche de Pentecôte
+
+[holiday]
+19810608
+Lundi de Pentecôte
+
+[holiday]
+19810617
+Journée de la réunification
+
+[holiday]
+19811225
+Le jour de Noël
+
+[holiday]
+19811226
+Le lendemain de Noël
+
+-----------------1982------------------------------
+
+[holidays]
+19820329
+19820417
+Pâques
+
+[holidays]
+19820529
+19820601
+Pentecôte
+
+[holidays]
+19820624
+19820807
+Eté
+
+[holidays]
+19821004
+19821011
+Automne
+
+[holidays]
+19821223
+19830108
+Noël
+
+..............................
+
+[holiday]
+19820101
+Nouvel an
+
+[holiday]
+19820501
+Fête du travail
+
+[holiday]
+19820617
+Journée de la réunification
+
+[holiday]
+19821225
+Le jour de Noël
+
+[holiday]
+19821226
+Le lendemain de Noël
+
+
+
+[holiday]
+19820409
+Vendredi saint
+
+[holiday]
+19820411
+Dimanche de Pâques
+
+[holiday]
+19820412
+Lundi de Pâques
+
+[holiday]
+19820520
+L'Ascension
+
+[holiday]
+19820530
+Dimanche de Pentecôte
+
+[holiday]
+19820531
+Lundi de Pentecôte
+
+
+-----------------1983------------------------------
+
+[holidays]
+19830321
+19830409
+Pâques
+
+[holidays]
+19830521
+19830524
+Pentecôte
+
+[holidays]
+19830616
+19830730
+Eté
+
+[holidays]
+19831003
+19831008
+Automne
+
+[holidays]
+19831223
+19840107
+Noël
+
+..............................
+
+[holiday]
+19830101
+Nouvel an
+
+[holiday]
+19830501
+Fête du travail
+
+[holiday]
+19830617
+Journée de la réunification
+
+[holiday]
+19831225
+Le jour de Noël
+
+[holiday]
+19831226
+Le lendemain de Noël
+
+
+
+[holiday]
+19830401
+Vendredi saint
+
+[holiday]
+19830403
+Dimanche de Pâques
+
+[holiday]
+19830404
+Lundi de Pâques
+
+[holiday]
+19830512
+L'Ascension
+
+[holiday]
+19830522
+Dimanche de Pentecôte
+
+[holiday]
+19830523
+Lundi de Pentecôte
+
+
+-----------------1984------------------------------
+
+[holidays]
+19840407
+19840430
+Pâques
+
+[holidays]
+19840609
+19840612
+Pentecôte
+
+[holidays]
+19840719
+19840901
+Eté
+
+[holidays]
+19841027
+19841103
+Automne
+
+[holidays]
+19841222
+19850105
+Noël
+
+..............................
+
+[holiday]
+19840101
+Nouvel an
+
+[holiday]
+19840501
+Fête du travail
+
+[holiday]
+19840617
+Journée de la réunification
+
+[holiday]
+19841225
+Le jour de Noël
+
+[holiday]
+19841226
+Le lendemain de Noël
+
+
+
+[holiday]
+19840420
+Vendredi saint
+
+[holiday]
+19840422
+Dimanche de Pâques
+
+[holiday]
+19840423
+Lundi de Pâques
+
+[holiday]
+19840531
+L'Ascension
+
+[holiday]
+19840610
+Dimanche de Pentecôte
+
+[holiday]
+19840611
+Lundi de Pentecôte
+
+
+-----------------1985------------------------------
+
+[holidays]
+19850323
+19850413
+Pâques
+
+[holidays]
+19850525
+19850528
+Pentecôte
+
+[holidays]
+19850718
+19850831
+Eté
+
+[holidays]
+19851026
+19851102
+Automne
+
+[holidays]
+19851223
+19860106
+Noël
+
+..............................
+
+[holiday]
+19850101
+Nouvel an
+
+[holiday]
+19850501
+Fête du travail
+
+[holiday]
+19850617
+Journée de la réunification
+
+[holiday]
+19851225
+Le jour de Noël
+
+[holiday]
+19851226
+Le lendemain de Noël
+
+
+
+[holiday]
+19850405
+Vendredi saint
+
+[holiday]
+19850407
+Dimanche de Pâques
+
+[holiday]
+19850408
+Lundi de Pâques
+
+[holiday]
+19850516
+L'Ascension
+
+[holiday]
+19850526
+Dimanche de Pentecôte
+
+[holiday]
+19850527
+Lundi de Pentecôte
+
+
+-----------------1986------------------------------
+
+[holidays]
+19860315
+19860405
+Pâques
+
+[holidays]
+19860517
+19860520
+Pentecôte
+
+[holidays]
+19860703
+19860816
+Eté
+
+[holidays]
+19861025
+19861101
+Automne
+
+[holidays]
+19861222
+19870106
+Noël
+
+..............................
+
+[holiday]
+19860101
+Nouvel an
+
+[holiday]
+19860501
+Fête du travail
+
+[holiday]
+19860617
+Journée de la réunification
+
+[holiday]
+19861225
+Le jour de Noël
+
+[holiday]
+19861226
+Le lendemain de Noël
+
+
+
+[holiday]
+19860318
+Vendredi saint
+
+[holiday]
+19860320
+Dimanche de Pâques
+
+[holiday]
+19860321
+Lundi de Pâques
+
+[holiday]
+19860428
+L'Ascension
+
+[holiday]
+19860508
+Dimanche de Pentecôte
+
+[holiday]
+19860509
+Lundi de Pentecôte
+
+
+-----------------1987------------------------------
+
+[holidays]
+19870402
+19870421
+Pâques
+
+[holidays]
+19870601
+19870609
+Pentecôte
+
+[holidays]
+19870709
+19870822
+Eté
+
+[holidays]
+19871003
+19871010
+Automne
+
+[holidays]
+19871223
+19880106
+Noël
+
+..............................
+
+[holiday]
+19870101
+Nouvel an
+
+[holiday]
+19870501
+Fête du travail
+
+[holiday]
+19870617
+Journée de la réunification
+
+[holiday]
+19871225
+Le jour de Noël
+
+[holiday]
+19871226
+Le lendemain de Noël
+
+
+
+[holiday]
+19870417
+Vendredi saint
+
+[holiday]
+19870419
+Dimanche de Pâques
+
+[holiday]
+19870420
+Lundi de Pâques
+
+[holiday]
+19870528
+L'Ascension
+
+[holiday]
+19870607
+Dimanche de Pentecôte
+
+[holiday]
+19870608
+Lundi de Pentecôte
+
+-----------------1988------------------------------
+
+[holidays]
+19880319
+19880409
+Pâques
+
+[holidays]
+19880524
+19880524
+Pentecôte
+
+[holidays]
+19880623
+19880806
+Eté
+
+[holidays]
+19881001
+19881008
+Automne
+
+[holidays]
+19881223
+19890107
+Noël
+
+..............................
+
+[holiday]
+19880101
+Nouvel an
+
+[holiday]
+19880501
+Fête du travail
+
+[holiday]
+19880617
+Journée de la réunification
+
+[holiday]
+19881225
+Le jour de Noël
+
+[holiday]
+19881226
+Le lendemain de Noël
+
+
+
+[holiday]
+19880401
+Vendredi saint
+
+[holiday]
+19880403
+Dimanche de Pâques
+
+[holiday]
+19880404
+Lundi de Pâques
+
+[holiday]
+19880512
+L'Ascension
+
+[holiday]
+19880522
+Dimanche de Pentecôte
+
+[holiday]
+19880523
+Lundi de Pentecôte
+
+-----------------1989------------------------------
+
+[holidays]
+19890317
+19890401
+Pâques
+
+[holidays]
+19890513
+19890520
+Pentecôte
+
+[holidays]
+19890720
+19890902
+Eté
+
+[holidays]
+19891028
+19891104
+Automne
+
+[holidays]
+19891223
+19900106
+Noël
+
+..............................
+
+[holiday]
+19890101
+Nouvel an
+
+[holiday]
+19890501
+Fête du travail
+
+[holiday]
+19890617
+Journée de la réunification
+
+[holiday]
+19891225
+Le jour de Noël
+
+[holiday]
+19891226
+Le lendemain de Noël
+
+
+
+[holiday]
+19890324
+Vendredi saint
+
+[holiday]
+19890326
+Dimanche de Pâques
+
+[holiday]
+19890327
+Lundi de Pâques
+
+[holiday]
+19890504
+L'Ascension
+
+[holiday]
+19890514
+Dimanche de Pentecôte
+
+[holiday]
+19890515
+Lundi de Pentecôte
+
+-----------------1990------------------------------
+
+[holidays]
+19900127
+19900210
+Hiver
+
+[holidays]
+19900407
+19900421
+Pâques
+
+[holidays]
+19900602
+19900605
+Pentecôte
+
+[holidays]
+19900712
+19900825
+Eté
+
+[holidays]
+19901027
+19901103
+Automne
+
+[holidays]
+19901222
+19910105
+Noël
+
+..............................
+
+[holiday]
+19900101
+Nouvel an
+
+[holiday]
+19900501
+Fête du travail
+
+[holiday]
+19900617
+Journée de la réunification
+
+[holiday]
+19901003
+Journée de la réunification
+
+[holiday]
+19901225
+Le jour de Noël
+
+[holiday]
+19901226
+Le lendemain de Noël
+
+
+
+[holiday]
+19900413
+Vendredi saint
+
+[holiday]
+19900415
+Dimanche de Pâques
+
+[holiday]
+19900416
+Lundi de Pâques
+
+[holiday]
+19900524
+L'Ascension
+
+[holiday]
+19900603
+Dimanche de Pentecôte
+
+[holiday]
+19900604
+Lundi de Pentecôte
+
+-----------------1991------------------------------
+
+[holidays]
+19910316
+19910406
+Pâques
+
+[holidays]
+19910518
+19910521
+Pentecôte
+
+[holidays]
+19910704
+19910821
+Eté
+
+[holidays]
+19911026
+19911102
+Automne
+
+[holidays]
+19911223
+19920106
+Noël
+
+..............................
+
+[holiday]
+19910101
+Nouvel an
+
+[holiday]
+19910501
+Fête du travail
+
+[holiday]
+19911003
+Journée de la réunification
+
+[holiday]
+19911225
+Le jour de Noël
+
+[holiday]
+19911226
+Le lendemain de Noël
+
+
+
+[holiday]
+19910329
+Vendredi saint
+
+[holiday]
+19910331
+Dimanche de Pâques
+
+[holiday]
+19910401
+Lundi de Pâques
+
+[holiday]
+19910509
+L'Ascension
+
+[holiday]
+19910519
+Dimanche de Pentecôte
+
+[holiday]
+19910520
+Lundi de Pentecôte
+
+-----------------1992------------------------------
+
+[holidays]
+19920404
+19920425
+Pâques
+
+[holidays]
+19920606
+19920609
+Pentecôte
+
+[holidays]
+19920626
+19920808
+Eté
+
+[holidays]
+19921002
+19921103
+Automne
+
+[holidays]
+19921223
+19930106
+Noël
+
+..............................
+
+[holiday]
+19920101
+Nouvel an
+
+[holiday]
+19920501
+Fête du travail
+
+[holiday]
+19921003
+Journée de la réunification
+
+[holiday]
+19921225
+Le jour de Noël
+
+[holiday]
+19921226
+Le lendemain de Noël
+
+
+
+[holiday]
+19920417
+Vendredi saint
+
+[holiday]
+19920419
+Dimanche de Pâques
+
+[holiday]
+19920420
+Lundi de Pâques
+
+[holiday]
+19920528
+L'Ascension
+
+[holiday]
+19920607
+Dimanche de Pentecôte
+
+[holiday]
+19920608
+Lundi de Pentecôte
+
+-----------------1993------------------------------
+
+[holidays]
+19930130
+19930213
+Hiver
+
+[holidays]
+19930403
+19930417
+Pâques
+
+[holidays]
+19930624
+19930804
+Eté
+
+[holidays]
+19931002
+19931009
+Automne
+
+[holidays]
+19931223
+19940103
+Noël
+
+..............................
+
+[holiday]
+19930101
+Nouvel an
+
+[holiday]
+19930501
+Fête du travail
+
+[holiday]
+19931003
+Journée de la réunification
+
+[holiday]
+19931225
+Le jour de Noël
+
+[holiday]
+19931226
+Le lendemain de Noël
+
+
+
+[holiday]
+19930409
+Vendredi saint
+
+[holiday]
+19930411
+Dimanche de Pâques
+
+[holiday]
+19930412
+Lundi de Pâques
+
+[holiday]
+19930520
+L'Ascension
+
+[holiday]
+19930530
+Dimanche de Pentecôte
+
+[holiday]
+19930531
+Lundi de Pentecôte
+
+-----------------1994------------------------------
+
+[holidays]
+19940129
+19940212
+Hiver
+
+[holidays]
+19940326
+19940409
+Pâques
+
+[holidays]
+19940521
+19940528
+Pentecôte
+
+[holidays]
+19940714
+19940824
+Eté
+
+[holidays]
+19941022
+19941029
+Automne
+
+[holidays]
+19941224
+19950104
+Noël
+
+..............................
+
+[holiday]
+19940101
+Nouvel an
+
+[holiday]
+19940501
+Fête du travail
+
+[holiday]
+19941003
+Journée de la réunification
+
+[holiday]
+19941225
+Le jour de Noël
+
+[holiday]
+19941226
+Le lendemain de Noël
+
+
+
+[holiday]
+19940401
+Vendredi saint
+
+[holiday]
+19940403
+Dimanche de Pâques
+
+[holiday]
+19940404
+Lundi de Pâques
+
+[holiday]
+19940512
+L'Ascension
+
+[holiday]
+19940522
+Dimanche de Pentecôte
+
+[holiday]
+19940523
+Lundi de Pentecôte
+
+
+-----------------1995------------------------------
+
+[holidays]
+19950211
+19950225
+Hiver
+
+[holidays]
+19950414
+19950502
+Pâques
+
+[holidays]
+19950629
+19950710
+Eté
+
+[holidays]
+19950930
+19951007
+Automne
+
+[holidays]
+19951223
+19960103
+Noël
+
+..............................
+
+[holiday]
+19950101
+Nouvel an
+
+[holiday]
+19950501
+Fête du travail
+
+[holiday]
+19951003
+Journée de la réunification
+
+[holiday]
+19951225
+Le jour de Noël
+
+[holiday]
+19951226
+Le lendemain de Noël
+
+
+
+[holiday]
+19950414
+Vendredi saint
+
+[holiday]
+19950416
+Dimanche de Pâques
+
+[holiday]
+19950417
+Lundi de Pâques
+
+[holiday]
+19950525
+L'Ascension
+
+[holiday]
+19950604
+Dimanche de Pentecôte
+
+[holiday]
+19950605
+Lundi de Pentecôte
+
+
+-----------------1996------------------------------
+
+[holidays]
+19960203
+19960217
+Hiver
+
+[holidays]
+19960330
+19960413
+Pâques
+
+[holidays]
+19960517
+19960517
+Pentecôte
+
+[holidays]
+19960620
+19960803
+Eté
+
+[holidays]
+19960928
+19961005
+Automne
+
+[holidays]
+19961221
+19970104
+Noël
+
+..............................
+
+[holiday]
+19960101
+Nouvel an
+
+[holiday]
+19960501
+Fête du travail
+
+[holiday]
+19961003
+Journée de la réunification
+
+[holiday]
+19961225
+Le jour de Noël
+
+[holiday]
+19961226
+Le lendemain de Noël
+
+
+
+[holiday]
+19960405
+Vendredi saint
+
+[holiday]
+19960407
+Dimanche de Pâques
+
+[holiday]
+19960408
+Lundi de Pâques
+
+[holiday]
+19960516
+L'Ascension
+
+[holiday]
+19960526
+Dimanche de Pentecôte
+
+[holiday]
+19960527
+Lundi de Pentecôte
+
+
+-----------------1997------------------------------
+
+[holidays]
+19970308
+19970331
+Pâques
+
+[holidays]
+19970509
+19970509
+Pentecôte
+
+[holidays]
+19970619
+19970802
+Eté
+
+[holidays]
+19971003
+19971018
+Automne
+
+[holidays]
+19971224
+19980103
+Noël
+
+..............................
+
+[holiday]
+19970101
+Nouvel an
+
+[holiday]
+19970501
+Fête du travail
+
+[holiday]
+19971003
+Journée de la réunification
+
+[holiday]
+19971225
+Le jour de Noël
+
+[holiday]
+19971226
+Le lendemain de Noël
+
+
+
+[holiday]
+19970328
+Vendredi saint
+
+[holiday]
+19970330
+Dimanche de Pâques
+
+[holiday]
+19970331
+Lundi de Pâques
+
+[holiday]
+19970508
+L'Ascension
+
+[holiday]
+19970518
+Dimanche de Pentecôte
+
+[holiday]
+19970519
+Lundi de Pentecôte
+
+-----------------1998------------------------------
+
+[holidays]
+19980221
+19980228
+Hiver
+
+[holidays]
+19980404
+19980425
+Pâques
+
+[holidays]
+19980522
+19980522
+Pentecôte
+
+[holidays]
+19980709
+19980822
+Eté
+
+[holidays]
+19981017
+19981024
+Automne
+
+[holidays]
+19981224
+19990102
+Noël
+
+..............................
+
+[holiday]
+19980101
+Nouvel an
+
+[holiday]
+19980501
+Fête du travail
+
+[holiday]
+19981003
+Journée de la réunification
+
+[holiday]
+19981225
+Le jour de Noël
+
+[holiday]
+19981226
+Le lendemain de Noël
+
+
+
+[holiday]
+19980410
+Vendredi saint
+
+[holiday]
+19980412
+Dimanche de Pâques
+
+[holiday]
+19980413
+Lundi de Pâques
+
+[holiday]
+19980521
+L'Ascension
+
+[holiday]
+19980531
+Dimanche de Pentecôte
+
+[holiday]
+19980601
+Lundi de Pentecôte
+
+-----------------1999------------------------------
+
+[holidays]
+19990130
+19990213
+Hiver
+
+[holidays]
+19990403
+19990417
+Pâques
+
+[holidays]
+19990514
+19990514
+Pentecôte
+
+[holidays]
+19990715
+19990828
+Eté
+
+[holidays]
+19991016
+19991023
+Automne
+
+[holidays]
+19991223
+19991231
+Noël
+
+-----------------1998------------------------------
+
+[holidays]
+19980221
+19980228
+Hiver
+
+[holidays]
+19980404
+19980425
+Pâques
+
+[holidays]
+19980522
+19980522
+Pentecôte
+
+[holidays]
+19980709
+19980822
+Eté
+
+[holidays]
+19981017
+19981024
+Automne
+
+[holidays]
+19981224
+19990102
+Noël
+
+..............................
+
+[holiday]
+19990101
+Nouvel an
+
+[holiday]
+19990501
+Fête du travail
+
+[holiday]
+19991003
+Journée de la réunification
+
+[holiday]
+19991225
+Le jour de Noël
+
+[holiday]
+19991226
+Le lendemain de Noël
+
+
+
+[holiday]
+19990402
+Vendredi saint
+
+[holiday]
+19990404
+Dimanche de Pâques
+
+[holiday]
+19990405
+Lundi de Pâques
+
+[holiday]
+19990513
+L'Ascension
+
+[holiday]
+19990523
+Dimanche de Pentecôte
+
+[holiday]
+19990524
+Lundi de Pentecôte
+
+-----------------2000------------------------------
+
+[holidays]
+20000129
+20000209
+Hiver
+
+[holidays]
+20000420
+20000506
+Pâques
+
+[holidays]
+20000602
+20000602
+Pentecôte
+
+[holidays]
+20000610
+20000613
+Pentecôte
+
+[holidays]
+20000720
+20000902
+Eté
+
+[holidays]
+20001028
+20001104
+Automne
+
+[holidays]
+20001223
+20010102
+Noël
+
+..............................
+
+[holiday]
+20000101
+Nouvel an
+
+[holiday]
+20000501
+Fête du travail
+
+[holiday]
+20001003
+Journée de la réunification
+
+[holiday]
+20001225
+Le jour de Noël
+
+[holiday]
+20001226
+Le lendemain de Noël
+
+
+
+[holiday]
+20000421
+Vendredi saint
+
+[holiday]
+20000423
+Dimanche de Pâques
+
+[holiday]
+20000424
+Lundi de Pâques
+
+[holiday]
+20000601
+L'Ascension
+
+[holiday]
+20000611
+Dimanche de Pentecôte
+
+[holiday]
+20000612
+Lundi de Pentecôte
+
+-----------------2001------------------------------
+
+[holidays]
+20010203
+20010217
+Hiver
+
+[holidays]
+20010414
+20010430
+Pâques
+
+[holidays]
+20010525
+20010525
+Pentecôte
+
+[holidays]
+20010719
+20010901
+Eté
+
+[holidays]
+20011027
+20011103
+Automne
+
+[holidays]
+20011222
+20020105
+Noël
+
+..............................
+
+[holiday]
+20010101
+Nouvel an
+
+[holiday]
+20010501
+Fête du travail
+
+[holiday]
+20011003
+Journée de la réunification
+
+[holiday]
+20011225
+Le jour de Noël
+
+[holiday]
+20011226
+Le lendemain de Noël
+
+
+
+[holiday]
+20010413
+Vendredi saint
+
+[holiday]
+20010415
+Dimanche de Pâques
+
+[holiday]
+20010416
+Lundi de Pâques
+
+[holiday]
+20010524
+L'Ascension
+
+[holiday]
+20010603
+Dimanche de Pentecôte
+
+[holiday]
+20010604
+Lundi de Pentecôte
+
+-----------------2002------------------------------
+
+[holidays]
+20020201
+20020209
+Hiver
+
+[holidays]
+20020323
+20020406
+Pâques
+
+[holidays]
+20020510
+20020510
+Pentecôte
+
+[holidays]
+20020518
+20020521
+Pentecôte
+
+[holidays]
+20020704
+20020817
+Eté
+
+[holidays]
+20021004
+20021004
+Automne
+
+[holidays]
+20021007
+20021019
+Automne
+
+[holidays]
+20021223
+20030103
+Noël
+
+..............................
+
+[holiday]
+20020101
+Nouvel an
+
+[holiday]
+20020501
+Fête du travail
+
+[holiday]
+20021003
+Journée de la réunification
+
+[holiday]
+20021225
+Le jour de Noël
+
+[holiday]
+20021226
+Le lendemain de Noël
+
+
+
+[holiday]
+20020329
+Vendredi saint
+
+[holiday]
+20020331
+Dimanche de Pâques
+
+[holiday]
+20020401
+Lundi de Pâques
+
+[holiday]
+20020509
+L'Ascension
+
+[holiday]
+20020519
+Dimanche de Pentecôte
+
+[holiday]
+20020520
+Lundi de Pentecôte
+
+-----------------2003------------------------------
+
+[holidays]
+20030203
+20030208
+Hiver
+
+[holidays]
+20030414
+20030425
+Pâques
+
+[holidays]
+20030528
+20030528
+Pentecôte
+
+[holidays]
+20030530
+20030530
+Pentecôte
+
+[holidays]
+20030703
+20030816
+Eté
+
+[holidays]
+20031006
+20031018
+Automne
+
+[holidays]
+20031222
+20040102
+Noël
+
+..............................
+
+[holiday]
+20030101
+Nouvel an
+
+[holiday]
+20030501
+Fête du travail
+
+[holiday]
+20031003
+Journée de la réunification
+
+[holiday]
+20031225
+Le jour de Noël
+
+[holiday]
+20031226
+Le lendemain de Noël
+
+
+
+[holiday]
+20030418
+Vendredi saint
+
+[holiday]
+20030420
+Dimanche de Pâques
+
+[holiday]
+20030421
+Lundi de Pâques
+
+[holiday]
+20030529
+L'Ascension
+
+[holiday]
+20030608
+Dimanche de Pentecôte
+
+[holiday]
+20030609
+Lundi de Pentecôte
+
+
+-----------------2004------------------------------
+
+[holidays]
+20040202
+20040207
+Hiver
+
+[holidays]
+20040405
+20040416
+Pâques
+
+[holidays]
+20040521
+20040521
+Pentecôte
+
+[holidays]
+20040624
+20040807
+Eté
+
+[holidays]
+20041004
+20041016
+Automne
+
+[holidays]
+20041223
+20041231
+Noël
+
+..............................
+
+[holiday]
+20040101
+Nouvel an
+
+[holiday]
+20040501
+Fête du travail
+
+[holiday]
+20041003
+Journée de la réunification
+
+[holiday]
+20041225
+Le jour de Noël
+
+[holiday]
+20041226
+Le lendemain de Noël
+
+
+
+[holiday]
+20040409
+Vendredi saint
+
+[holiday]
+20040411
+Dimanche de Pâques
+
+[holiday]
+20040412
+Lundi de Pâques
+
+[holiday]
+20040520
+L'Ascension
+
+[holiday]
+20040530
+Dimanche de Pentecôte
+
+[holiday]
+20040531
+Lundi de Pentecôte
+
+-----------------2005------------------------------
+
+[holidays]
+20050124
+20050129
+Hiver
+
+[holidays]
+20050323
+20050401
+Pâques
+
+[holidays]
+20050506
+20050506
+Pentecôte
+
+[holidays]
+20050517
+20050521
+Pentecôte
+
+[holidays]
+20050623
+20050806
+Eté
+
+[holidays]
+20051004
+20051015
+Automne
+
+[holidays]
+20051222
+20060103
+Noël
+
+..............................
+
+[holiday]
+20050101
+Nouvel an
+
+[holiday]
+20050501
+Fête du travail
+
+[holiday]
+20051003
+Journée de la réunification
+
+[holiday]
+20051225
+Le jour de Noël
+
+[holiday]
+20051226
+Le lendemain de Noël
+
+
+
+[holiday]
+20050325
+Vendredi saint
+
+[holiday]
+20050327
+Dimanche de Pâques
+
+[holiday]
+20050328
+Lundi de Pâques
+
+[holiday]
+20050505
+L'Ascension
+
+[holiday]
+20050515
+Dimanche de Pentecôte
+
+[holiday]
+20050516
+Lundi de Pentecôte
+
+-----------------2006------------------------------
+
+[holidays]
+20060130
+20060203
+Hiver
+
+[holidays]
+20060410
+20060422
+Pâques
+
+[holidays]
+20060526
+20060526
+Pentecôte
+
+[holidays]
+20060705
+20060818
+Eté
+
+[holidays]
+20061002
+20061014
+Automne
+
+[holidays]
+20061227
+20070105
+Noël
+
+..............................
+
+[holiday]
+20060101
+Nouvel an
+
+[holiday]
+20060501
+Fête du travail
+
+[holiday]
+20061003
+Journée de la réunification
+
+[holiday]
+20061225
+Le jour de Noël
+
+[holiday]
+20061226
+Le lendemain de Noël
+
+
+
+[holiday]
+20060414
+Vendredi saint
+
+[holiday]
+20060416
+Dimanche de Pâques
+
+[holiday]
+20060417
+Lundi de Pâques
+
+[holiday]
+20060525
+L'Ascension
+
+[holiday]
+20060604
+Dimanche de Pentecôte
+
+[holiday]
+20060605
+Lundi de Pentecôte
+
+-----------------2007------------------------------
+
+[holidays]
+20070205
+20070210
+Hiver
+
+[holidays]
+20070402
+20070413
+Pâques
+
+[holidays]
+20070430
+20070430
+Pâques
+
+[holidays]
+20070518
+20070518
+Pentecôte
+
+[holidays]
+20070712
+20070825
+Eté
+
+[holidays]
+20071015
+20071020
+Automne
+
+[holidays]
+20071224
+20080112
+Noël
+
+..............................
+
+[holiday]
+20070101
+Nouvel an
+
+[holiday]
+20070501
+Fête du travail
+
+[holiday]
+20071003
+Journée de la réunification
+
+[holiday]
+20071225
+Le jour de Noël
+
+[holiday]
+20071226
+Le lendemain de Noël
+
+
+
+[holiday]
+20070406
+Vendredi saint
+
+[holiday]
+20070408
+Dimanche de Pâques
+
+[holiday]
+20070409
+Lundi de Pâques
+
+[holiday]
+20070517
+L'Ascension
+
+[holiday]
+20070527
+Dimanche de Pentecôte
+
+[holiday]
+20070528
+Lundi de Pentecôte
+
+-----------------2008------------------------------
+
+[holidays]
+20080204
+20080204
+Hiver
+
+[holidays]
+20080317
+20080329
+Pâques
+
+[holidays]
+20080502
+20080502
+Pentecôte
+
+[holidays]
+20080513
+20080516
+Pentecôte
+
+[holidays]
+20080716
+20080829
+Eté
+
+[holidays]
+20081020
+20081031
+Automne
+
+[holidays]
+20081222
+20090103
+Noël
+
+..............................
+
+[holiday]
+20080101
+Nouvel an
+
+[holiday]
+20080501
+Fête du travail
+
+[holiday]
+20081003
+Journée de la réunification
+
+[holiday]
+20081225
+Le jour de Noël
+
+[holiday]
+20081226
+Le lendemain de Noël
+
+
+
+[holiday]
+20080321
+Vendredi saint
+
+[holiday]
+20080323
+Dimanche de Pâques
+
+[holiday]
+20080324
+Lundi de Pâques
+
+[holiday]
+20080501
+L'Ascension
+
+[holiday]
+20080511
+Dimanche de Pentecôte
+
+[holiday]
+20080512
+Lundi de Pentecôte
+
+
+-----------------2009------------------------------
+
+[holidays]
+20090202
+20090207
+Hiver
+
+[holidays]
+20090406
+20090418
+Pâques
+
+[holidays]
+20090522
+20090522
+Pentecôte
+
+[holidays]
+20090715
+20090828
+Eté
+
+[holidays]
+20091019
+20091030
+Automne
+
+[holidays]
+20091221
+20100102
+Noël
+
+..............................
+
+[holiday]
+20090101
+Nouvel an
+
+[holiday]
+20090501
+Fête du travail
+
+[holiday]
+20091003
+Journée de la réunification
+
+[holiday]
+20091225
+Le jour de Noël
+
+[holiday]
+20091226
+Le lendemain de Noël
+
+
+
+[holiday]
+20090410
+Vendredi saint
+
+[holiday]
+20090412
+Dimanche de Pâques
+
+[holiday]
+20090413
+Lundi de Pâques
+
+[holiday]
+20090521
+L'Ascension
+
+[holiday]
+20090531
+Dimanche de Pentecôte
+
+[holiday]
+20090601
+Lundi de Pentecôte
+
+-----------------2010------------------------------
+
+[holidays]
+20100201
+20100206
+Hiver
+
+[holidays]
+20100331
+20100410
+Pâques
+
+[holidays]
+20100514
+20100514
+Pentecôte
+
+[holidays]
+20100525
+20100525
+Pentecôte
+
+[holidays]
+20100707
+20100821
+Eté
+
+[holidays]
+20101011
+20101023
+Automne
+
+[holidays]
+20101223
+20110101
+Noël
+
+..............................
+
+[holiday]
+20100101
+Nouvel an
+
+[holiday]
+20100501
+Fête du travail
+
+[holiday]
+20101003
+Journée de la réunification
+
+[holiday]
+20101225
+Le jour de Noël
+
+[holiday]
+20101226
+Le lendemain de Noël
+
+
+
+[holiday]
+20100402
+Vendredi saint
+
+[holiday]
+20100404
+Dimanche de Pâques
+
+[holiday]
+20100405
+Lundi de Pâques
+
+[holiday]
+20100513
+L'Ascension
+
+[holiday]
+20100523
+Dimanche de Pentecôte
+
+[holiday]
+20100524
+Lundi de Pentecôte
+
+-----------------2011------------------------------
+
+[holidays]
+20110131
+20110205
+Hiver
+
+[holidays]
+20110418
+20110430
+Pâques
+
+[holidays]
+20110603
+20110603
+Pentecôte
+
+[holidays]
+20110629
+20110812
+Eté
+
+[holidays]
+20111004
+20111014
+Automne
+
+[holidays]
+20111223
+20120103
+Noël
+
+..............................
+
+[holiday]
+20110101
+Nouvel an
+
+[holiday]
+20110501
+Fête du travail
+
+[holiday]
+20111003
+Journée de la réunification
+
+[holiday]
+20111225
+Le jour de Noël
+
+[holiday]
+20111226
+Le lendemain de Noël
+
+
+
+[holiday]
+20110422
+Vendredi saint
+
+[holiday]
+20110424
+Dimanche de Pâques
+
+[holiday]
+20110425
+Lundi de Pâques
+
+[holiday]
+20110602
+L'Ascension
+
+[holiday]
+20110612
+Dimanche de Pentecôte
+
+[holiday]
+20110613
+Lundi de Pentecôte
+
+-----------------2012------------------------------
+
+[holidays]
+20120130
+20120204
+Hiver
+
+[holidays]
+20120402
+20120414
+Pâques
+
+[holidays]
+20120430
+20120430
+Pâques
+
+[holidays]
+20120518
+20120518
+Pentecôte
+
+[holidays]
+20120620
+20120803
+Eté
+
+[holidays]
+20121001
+20121013
+Automne
+
+[holidays]
+20121224
+20130104
+Noël
+
+..............................
+
+[holiday]
+20120101
+Nouvel an
+
+[holiday]
+20120501
+Fête du travail
+
+[holiday]
+20121003
+Journée de la réunification
+
+[holiday]
+20121225
+Le jour de Noël
+
+[holiday]
+20121226
+Le lendemain de Noël
+
+
+
+[holiday]
+20120406
+Vendredi saint
+
+[holiday]
+20120408
+Dimanche de Pâques
+
+[holiday]
+20120409
+Lundi de Pâques
+
+[holiday]
+20120517
+L'Ascension
+
+[holiday]
+20120527
+Dimanche de Pentecôte
+
+[holiday]
+20120528
+Lundi de Pentecôte
+
+-----------------2013------------------------------
+
+[holidays]
+20130204
+20130209
+Hiver
+
+[holidays]
+20130325
+20130406
+Pâques
+
+[holidays]
+20130510
+20130510
+Pentecôte
+
+[holidays]
+20130521
+20130521
+Pentecôte
+
+[holidays]
+20130619
+20130802
+Eté
+
+[holidays]
+20130930
+20131012
+Automne
+
+[holidays]
+20131223
+20140103
+Noël
+
+..............................
+
+[holiday]
+20130101
+Nouvel an
+
+[holiday]
+20130501
+Fête du travail
+
+[holiday]
+20131003
+Journée de la réunification
+
+[holiday]
+20131225
+Le jour de Noël
+
+[holiday]
+20131226
+Le lendemain de Noël
+
+
+
+[holiday]
+20130329
+Vendredi saint
+
+[holiday]
+20130331
+Dimanche de Pâques
+
+[holiday]
+20130401
+Lundi de Pâques
+
+[holiday]
+20130509
+L'Ascension
+
+[holiday]
+20130519
+Dimanche de Pentecôte
+
+[holiday]
+20130520
+Lundi de Pentecôte
+
+
+-----------------2014------------------------------
+
+[holidays]
+20140203
+20140208
+Hiver
+
+[holidays]
+20140414
+20140426
+Pâques
+
+[holidays]
+20140502
+20140502
+Pentecôte
+
+[holidays]
+20140530
+20140530
+Pentecôte
+
+[holidays]
+20140709
+20140822
+Eté
+
+[holidays]
+20141020
+20141101
+Automne
+
+[holidays]
+20141222
+20150102
+Noël
+
+..............................
+
+[holiday]
+20140101
+Nouvel an
+
+[holiday]
+20140501
+Fête du travail
+
+[holiday]
+20141003
+Journée de la réunification
+
+[holiday]
+20141225
+Le jour de Noël
+
+[holiday]
+20141226
+Le lendemain de Noël
+
+
+
+[holiday]
+20140418
+Vendredi saint
+
+[holiday]
+20140420
+Dimanche de Pâques
+
+[holiday]
+20140421
+Lundi de Pâques
+
+[holiday]
+20140529
+L'Ascension
+
+[holiday]
+20140608
+Dimanche de Pentecôte
+
+[holiday]
+20140609
+Lundi de Pentecôte
+
+
+-----------------2015------------------------------
+
+[holidays]
+20150202
+20150207
+Hiver
+
+[holidays]
+20150330
+20150411
+Pâques
+
+[holidays]
+20150515
+20150515
+L'Ascension
+
+[holidays]
+20150526
+20150526
+Pentecôte
+
+[holidays]
+20150716
+20150828
+Eté
+
+[holidays]
+20151019
+20151031
+Automne
+
+[holidays]
+20151223
+20160102
+Noël
+
+..............................
+
+[holiday]
+20150101
+Nouvel an
+
+[holiday]
+20150501
+Fête du travail
+
+[holiday]
+20151003
+Journée de la réunification
+
+[holiday]
+20151225
+Le jour de Noël
+
+[holiday]
+20151226
+Le lendemain de Noël
+
+
+
+[holiday]
+20150403
+Vendredi saint
+
+[holiday]
+20150405
+Dimanche de Pâques
+
+[holiday]
+20150406
+Lundi de Pâques
+
+[holiday]
+20150514
+L'Ascension
+
+[holiday]
+20150524
+Dimanche de Pentecôte
+
+[holiday]
+20150525
+Lundi de Pentecôte
+
+
+-----------------2016------------------------------
+
+[holidays]
+20160201
+20160206
+Hiver
+
+[holidays]
+20160321
+20160402
+Pâques
+
+[holidays]
+20160506
+20160506
+L'Ascension
+
+[holidays]
+20160517
+20160518
+Pentecôte
+
+[holidays]
+20160721
+20160902
+Eté
+
+[holidays]
+20161017
+20161028
+Automne
+
+[holidays]
+20161223
+20170103
+Noël
+
+..............................
+
+[holiday]
+20160101
+Nouvel an
+
+[holiday]
+20160501
+Fête du travail
+
+[holiday]
+20161003
+Journée de la réunification
+
+[holiday]
+20161225
+Le jour de Noël
+
+[holiday]
+20161226
+Le lendemain de Noël
+
+
+
+[holiday]
+20160325
+Vendredi saint
+
+[holiday]
+20160327
+Dimanche de Pâques
+
+[holiday]
+20160328
+Lundi de Pâques
+
+[holiday]
+20160505
+L'Ascension
+
+[holiday]
+20160515
+Dimanche de Pentecôte
+
+[holiday]
+20160516
+Lundi de Pentecôte
+

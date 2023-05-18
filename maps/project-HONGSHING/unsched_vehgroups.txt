@@ -1,0 +1,24 @@
+	Unscheduled Vehicle Group (UVG)
+
+	[group]
+	<aigroup-name>
+	<default density? 0 = no traffic by default, 1 = use density of first UVG by default, 2 = ...second..., ...;
+		if this is the first UVG, then 1 = use density class Medium by default
+
+
+[group]
+NormalCars
+1
+
+[group]
+Trucks
+0
+
+[group]
+Commercials
+1
+
+[group]
+Ambulance
+1
+

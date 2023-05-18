@@ -1,0 +1,9 @@
+Vehicles\MB_W123_230E\parked_mb_w123_230e.sco
+Vehicles\MB_W123_230E\parked_mb_w123_230e.sco
+Vehicles\MB_W123_230E\parked_mb_w123_230e.sco
+Vehicles\VW_Golf_2\parked_vw_golf_2.sco
+Vehicles\VW_Golf_2\parked_vw_golf_2.sco
+Vehicles\VW_Golf_2\parked_vw_golf_2.sco
+vehicles\VW_T3\VW_T3_Van_Parked.sco
+Vehicles\Opel_Manta_B\parked_opel_manta_b.sco
+vehicles\Citr_BX\BX_Parked.sco
