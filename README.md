@@ -8,7 +8,11 @@ This guide will walk you through the steps of contributing to the Project-HONGSH
 2. Choose the appropriate 64-bit or 32-bit version for your system.
 3. Install Git on your system.
 4. Launch Git Bash from the Start Menu.
-5. To verify that Git is installed correctly and functioning properly, run this command in the terminal: `git --version`.
+5. To verify that Git is installed correctly and functioning properly, run this command in the terminal:
+
+   ``` git
+   git --version
+   ```
 
 ## Chapter 2: Forking the Repository
 
@@ -25,7 +29,7 @@ This guide will walk you through the steps of contributing to the Project-HONGSH
 3. Run the following command inside the terminal:
 
 ``` git
-git clone https:/[insert your username here]:[insert yourpassword here]@github.com/[insert your username here]/project-HONGSHING.git
+git clone https://[insert your username here]:[insert yourpassword here]@github.com/[insert your username here]/project-HONGSHING.git
 ```
 
 .
