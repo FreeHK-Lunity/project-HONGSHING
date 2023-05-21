@@ -1,23 +1,26 @@
 # project-HONGSHING
+
 project-HONGSHING OMSI2 map.
 
-
-CHAPTER 1 --- Installing Git.
-> Download the latest version of Git from this website. : https://git-scm.com/downloads
-> Choose the 64/32 bit version. 
-> After the file is downloaded, install it in the system. Once installed, go to your Start Menu. 
+## CHAPTER 1 --- Installing Git
+>
+> Download the latest version of Git from this website. : <https://git-scm.com/downloads>
+> Choose the 64/32 bit version.
+> After the file is downloaded, install it in the system. Once installed, go to your Start Menu.
 > Select Launch Git Bash, then click on finish. The Git Bash is now launched.
 > To verify that Git is installed correctly and functioning properly, run this command in the terminal.
 > `git –version`
 
-CHAPTER 2 --- Forking the repository
-> Go to https://github.com/FreeHK-Lunity/project-HONGSHING
+## CHAPTER 2 --- Forking the repository
+>
+> Go to <https://github.com/FreeHK-Lunity/project-HONGSHING>
 > Inside the repository, there is a fork button.
 > Press the fork button.
 > In the `Create a new fork` page, Click on the `Create fork` button.
-You have successfully created a fork of the main project-HONGSHING repository! 
+You have successfully created a fork of the main project-HONGSHING repository!
 
-CHAPTER 3 --- Using Git.
+## CHAPTER 3 --- Using Git
+>
 > On your OMSI 2 main folder, right click on an empty space.
 > If you are on Windows 11, click on `Open In Terminal`.
 > If you are on Windows 10, click on `Open Git Bash here`.
@@ -26,8 +29,9 @@ CHAPTER 3 --- Using Git.
 > Inside the `project-HONGSHING` folder, move the maps folder to your OMSI 2 folder.
 You are set for map development now!
 
-CHAPTER 4 --- Pushing to your repository.
-> Please install Vim from the following website. https://www.vim.org/download.php
+## CHAPTER 4 --- Pushing to your repository
+>
+> Please install Vim from the following website. <https://www.vim.org/download.php>
 > Press on the `self installing executable` hyperlink.
 > Follow the steps to install the application.
 > Go to your Git Bash terminal.
@@ -46,8 +50,9 @@ CHAPTER 4 --- Pushing to your repository.
 > ```git push```
 > Your changes will now be updated in your repository.
 
-CHAPTER 5 --- Submitting your pull request.
-> Go to the pull request page of the repository.(https://github.com/FreeHK-Lunity/project-HONGSHING/pulls)
+## CHAPTER 5 --- Submitting your pull request
+>
+> Go to the pull request page of the repository.(<https://github.com/FreeHK-Lunity/project-HONGSHING/pulls>)
 > Click on `New pull request`
 > Click on `compare across forks`
 > Click on `compare`
@@ -59,5 +64,6 @@ CHAPTER 5 --- Submitting your pull request.
 
 You have successfully created a pull request! Please wait patiently for the main map editors to approve your pull request.
 
-**BEWARE**
+## BEWARE
+>
 > You have to copy your whole `maps\project-HONGSHING` folder to the `project-HONGSHING` inside your main OMSI 2 folder whenever have you finish editing your map.
