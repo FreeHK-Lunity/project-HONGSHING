@@ -51,7 +51,8 @@ This guide will walk you through the steps of contributing to the Project-HONGSH
 9. After you finish typing the commit message, press "Esc", then type
 
     ``` cmd
-    `:x` `Enter` and `:q` `Enter`.
+    :x [Enter] 
+    :q [Enter]
     ```
 
 10. Finish the commit process by inputting the following command: `git push`.
