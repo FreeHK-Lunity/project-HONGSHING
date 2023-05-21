@@ -1,69 +1,70 @@
-# project-HONGSHING
+# Project-HONGSHING
 
-project-HONGSHING OMSI2 map.
+This guide will walk you through the steps of contributing to the Project-HONGSHING OMSI2 map.
 
-## CHAPTER 1 --- Installing Git
+## Chapter 1: Installing Git
 
- Download the latest version of Git from this website. : <https://git-scm.com/downloads>
- Choose the 64/32 bit version.
- After the file is downloaded, install it in the system. Once installed, go to your Start Menu.
- Select Launch Git Bash, then click on finish. The Git Bash is now launched.
- To verify that Git is installed correctly and functioning properly, run this command in the terminal.
- `git –version`
+1. Download the latest version of Git from the [Git website](https://git-scm.com/downloads).
+2. Choose the appropriate 64-bit or 32-bit version for your system.
+3. Install Git on your system.
+4. Launch Git Bash from the Start Menu.
+5. To verify that Git is installed correctly and functioning properly, run this command in the terminal: `git --version`.
 
-## CHAPTER 2 --- Forking the repository
+## Chapter 2: Forking the Repository
 
- Go to <https://github.com/FreeHK-Lunity/project-HONGSHING>>
- Inside the repository, there is a fork button.
- Press the fork button.
- In the `Create a new fork` page, Click on the `Create fork` button.
-You have successfully created a fork of the main project-HONGSHING repository!
+1. Go to the [Project-HONGSHING repository](https://github.com/FreeHK-Lunity/project-HONGSHING).
+2. Click on the "Fork" button in the top right corner of the page.
+3. In the "Create a new fork" page, click on the "Create fork" button.
+4. You have now successfully created a fork of the main Project-HONGSHING repository!
 
-## CHAPTER 3 --- Using Git
+## Chapter 3: Using Git
 
- On your OMSI 2 main folder, right click on an empty space.
- If you are on Windows 11, click on `Open In Terminal`.
- If you are on Windows 10, click on `Open Git Bash here`.
- Run the following command inside the terminal.
- `git clone https:/[insert your username here]:[insert your password here]@github.com/[insert your username here]/project-HONGSHING.git`
- Inside the `project-HONGSHING` folder, move the maps folder to your OMSI 2 folder.
-You are set for map development now!
+1. Right-click on an empty space in your OMSI 2 main folder.
+2. If you are on Windows 11, click on "Open in Terminal". If you are on Windows 10, click on "Open Git Bash here".
+3. Run the following command inside the terminal: `git clone https:/[insert your username here]:[insert yourpassword here]@github.com/[insert your username here]/project-HONGSHING.git`.
+4. Move the "maps" folder from the "project-HONGSHING" folder to your OMSI 2 folder.
+5. You are now set for map development!
 
-## CHAPTER 4 --- Pushing to your repository
+## Chapter 4: Pushing to Your Repository
 
- Please install Vim from the following website. <https://www.vim.org/download.php>
- Press on the `self installing executable` hyperlink.
- Follow the steps to install the application.
- Go to your Git Bash terminal.
- Type the following command to change to your OMSI 2 `project-HONGSHING` folder inside the terminal.
- ```cd F:```
- ```cd OMSI [tab]```
- ```cd project [tab]```
- After you have copied the edited map into the `project-HONGSHING` folder, type the following commands into the Git Bash terminal.
- ```git add *```
- ```git commit -a```
- Inside your Git Bash window, press enter.
- You should have started a new line.
- Please write about what you have edited in that line.
- After you finish typing the commit message, press [Esc], then type `:x` `[Enter]` and `:q` `[Enter]`
- Finishing the commit process, you can now input the following command.
- ```git push```
- Your changes will now be updated in your repository.
+1. Install Vim from the [Vim website](https://www.vim.org/download.php).
+2. Follow the steps to install the application.
+3. Go to your Git Bash terminal.
+4. Type the following commands to change to your OMSI 2 "project-HONGSHING" folder inside the terminal:
 
-## CHAPTER 5 --- Submitting your pull request
+   ``` cmd
+   cd F:
+   cd OMSI [tab]
+   cd project [tab]
+   ```
 
- Go to the pull request page of the repository.(<https://github.com/FreeHK-Lunity/project-HONGSHING/pulls>)
- Click on `New pull request`
- Click on `compare across forks`
- Click on `compare`
- Choose your own repository.
- Click on `Create pull request`
- Type what you have edited in the title.
- If possible, add screenshots about what you have edited.
- Click on `Create pull request`
+5. After you have edited the map, copy it into the "project-HONGSHING" folder.
+6. Type the following commands into the Git Bash terminal:
 
-You have successfully created a pull request! Please wait patiently for the main map editors to approve your pull request.
+   ``` cmd
+   git add *
+   git commit -a
+   ```
 
-## BEWARE
+7. Inside your Git Bash window, press "Enter".
+8. Write a commit message about what you have edited in that line.
+9. After you finish typing the commit message, press "Esc", then type `:x` `Enter` and `:q` `Enter`.
+10. Finish the commit process by inputting the following command: `git push`.
+11. Your changes will now be updated in your repository.
 
- You have to copy your whole `maps\project-HONGSHING` folder to the `project-HONGSHING` inside your main OMSI 2 folder whenever have you finish editing your map.
+## Chapter 5: Submitting Your Pull Request
+
+1. Go to the [pull request page](https://github.com/FreeHK-Lunity/project-HONGSHING/pulls) of the repository
+2. Click on "New pull request".
+3. Click on "compare across forks".
+4. Click on "compare".
+5. Choose your own repository.
+6. Click on "Create pull request".
+7. Type a title that describes what you have edited.
+8. If possible, add screenshots of your edits.
+9. Click on "Create pull request".
+10. You have now successfully created a pull request! Please wait patiently for the main map editors to approve your pull request.
+
+## Beware
+
+Remember to copy your whole "maps\project-HONGSHING" folder to the "project-HONGSHING" folder inside your main OMSI 2 folder whenever you finish editing your map.
