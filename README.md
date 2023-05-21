@@ -43,7 +43,7 @@ git clone https://[insert your username here]:[insert your password here]@github
 3. Go to your Git Bash terminal.
 4. Type the following commands to change to your OMSI 2 "project-HONGSHING" folder inside the terminal:
 
-   ```` cmd
+   ``` cmd
    cd F:
    cd OMSI [tab]
    cd project [tab]
@@ -52,7 +52,7 @@ git clone https://[insert your username here]:[insert your password here]@github
 5. After you have edited the map, copy it into the "project-HONGSHING" folder.
 6. Type the following commands into the Git Bash terminal:
 
-   ```` cmd
+   ``` cmd
    git add *
    git commit -a
    ```
