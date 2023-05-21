@@ -45,7 +45,7 @@ You are set for map development now!
  Inside your Git Bash window, press enter.
  You should have started a new line.
  Please write about what you have edited in that line.
- After you finish typing the commit message, press [Esc], then type `:x` [Enter] and `:q` [Enter]
+ After you finish typing the commit message, press [Esc], then type `:x` `[Enter]` and `:q` `[Enter]`
  Finishing the commit process, you can now input the following command.
  ```git push```
  Your changes will now be updated in your repository.
