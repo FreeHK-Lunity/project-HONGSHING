@@ -15,7 +15,8 @@ This guide will walk you through the steps of contributing to the Project-HONGSH
 1. Go to the [Project-HONGSHING repository](https://github.com/FreeHK-Lunity/project-HONGSHING).
 2. Click on the "Fork" button in the top right corner of the page.
 3. In the "Create a new fork" page, click on the "Create fork" button.
-You have now successfully created a fork of the main Project-HONGSHING repository!
+
+### You have now successfully created a fork of the main Project-HONGSHING repository
 
 ## Chapter 3: Using Git
 
@@ -23,7 +24,8 @@ You have now successfully created a fork of the main Project-HONGSHING repositor
 2. If you are on Windows 11, click on "Open in Terminal". If you are on Windows 10, click on "Open Git Bash here".
 3. Run the following command inside the terminal: `git clone https:/[insert your username here]:[insert yourpassword here]@github.com/[insert your username here]/project-HONGSHING.git`.
 4. Move the "maps" folder from the "project-HONGSHING" folder to your OMSI 2 folder.
-You are now set for map development!
+
+### You are now set for map development
 
 ## Chapter 4: Pushing to Your Repository
 
@@ -56,7 +58,8 @@ You are now set for map development!
     ```
 
 10. Finish the commit process by inputting the following command: `git push`.
-Your changes will now be updated in your repository.
+
+### Your changes will now be updated in your repository
 
 ## Chapter 5: Submitting Your Pull Request
 
@@ -69,7 +72,8 @@ Your changes will now be updated in your repository.
 7. Type a title that describes what you have edited.
 8. If possible, add screenshots of your edits.
 9. Click on "Create pull request".
-You have now successfully created a pull request! Please wait patiently for the main map editors to approve your pull request.
+
+### You have now successfully created a pull request! Please wait patiently for the main map editors to approve your pull request
 
 ## Beware
 
