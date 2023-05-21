@@ -22,7 +22,13 @@ This guide will walk you through the steps of contributing to the Project-HONGSH
 
 1. Right-click on an empty space in your OMSI 2 main folder.
 2. If you are on Windows 11, click on "Open in Terminal". If you are on Windows 10, click on "Open Git Bash here".
-3. Run the following command inside the terminal: `git clone https:/[insert your username here]:[insert yourpassword here]@github.com/[insert your username here]/project-HONGSHING.git`.
+3. Run the following command inside the terminal:
+
+``` git
+git clone https:/[insert your username here]:[insert yourpassword here]@github.com/[insert your username here]/project-HONGSHING.git
+```
+
+.
 4. Move the "maps" folder from the "project-HONGSHING" folder to your OMSI 2 folder.
 
 ### You are now set for map development
@@ -75,4 +81,4 @@ This guide will walk you through the steps of contributing to the Project-HONGSH
 
 ### You have now successfully created a pull request! Please wait patiently for the main map editors to approve your pull request
 
-# Remember to copy your whole "maps\project-HONGSHING" folder to the "project-HONGSHING" folder inside your main OMSI 2 folder whenever you finish editing your map
+## Remember to copy your whole "maps\project-HONGSHING" folder to the "project-HONGSHING" folder inside your main OMSI 2 folder whenever you finish editing your map
