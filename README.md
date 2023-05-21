@@ -48,7 +48,12 @@ This guide will walk you through the steps of contributing to the Project-HONGSH
 
 7. Inside your Git Bash window, press "Enter".
 8. Write a commit message about what you have edited in that line.
-9. After you finish typing the commit message, press "Esc", then type `:x` `Enter` and `:q` `Enter`.
+9. After you finish typing the commit message, press "Esc", then type
+
+    ``` cmd
+    `:x` `Enter` and `:q` `Enter`.
+    ```
+
 10. Finish the commit process by inputting the following command: `git push`.
 11. Your changes will now be updated in your repository.
 
