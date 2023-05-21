@@ -75,6 +75,4 @@ This guide will walk you through the steps of contributing to the Project-HONGSH
 
 ### You have now successfully created a pull request! Please wait patiently for the main map editors to approve your pull request
 
-## Beware
-
-Remember to copy your whole "maps\project-HONGSHING" folder to the "project-HONGSHING" folder inside your main OMSI 2 folder whenever you finish editing your map.
+# Remember to copy your whole "maps\project-HONGSHING" folder to the "project-HONGSHING" folder inside your main OMSI 2 folder whenever you finish editing your map
