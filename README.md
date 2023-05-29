@@ -29,7 +29,7 @@ Welcome to the Project-HONGSHING OMSI2 map contribution guide! This guide will w
 3. Run the following command inside the terminal:
 
 ``` git
-git clone https://[insert your username here]:[insert your password here]@github.com/[insert your username here]/project-HONGSHING.git
+git clone https://github.com/[insert your username here]/project-HONGSHING.git
 ```
 
 4. Move the "maps" folder from the "project-HONGSHING" folder to your OMSI 2 folder.
