@@ -48,7 +48,7 @@ git clone https://github.com/[insert your username here]/project-HONGSHING.git
    cd OMSI [tab]
    cd project [tab]
    ```
- ## This is an example prompt to change to the OMSI 2 "project-HONGSHING" folder. The Commands will change depending on where you put your OMSI folder.
+### This is an example prompt to change to the OMSI 2 "project-HONGSHING" folder. The Command will change depending on where you put your OMSI folder.
 5. After you have edited the map, copy it into the "project-HONGSHING" folder.
 6. Type the following commands into the Git Bash terminal:
 
