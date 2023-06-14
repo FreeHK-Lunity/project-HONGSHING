@@ -66,7 +66,10 @@ git clone https://github.com/[insert your username here]/project-HONGSHING.git
     :q [Enter]
     ```
 
-10. Finish the commit process by inputting the following command: `git push`.
+10. Finish the commit process by inputting the following command:
+    ``` cmd
+    git push
+    ```
 
 ### Your changes will now be updated in your repository.
 
