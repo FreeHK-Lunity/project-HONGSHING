@@ -1,5 +1,3 @@
-vehicles\Citr_BX\BX.ovh
-vehicles\MAN_F90\AI_MAN_F90_Wechselbruecke.bus
 vehicles\MAN_SD200\MAN_SD77.bus
 vehicles\MAN_SD200\MAN_SD80.bus
 vehicles\MAN_SD200\MAN_SD81.bus
@@ -12,8 +10,14 @@ vehicles\MAN_SD202\MAN_D86.bus
 vehicles\MAN_SD202\MAN_D87.bus
 vehicles\MAN_SD202\MAN_D88.bus
 vehicles\MAN_SD202\MAN_D92.bus
-vehicles\MB_W123_230E\AI_mb_w123_230e.bus
+vehicles\MAN_F90\AI_MAN_F90_Wechselbruecke.bus
 vehicles\MB_W123_230E\AI_mb_w123_230e_cab.bus
-vehicles\Opel_Manta_B\ai_opel_manta_b.ovh
 vehicles\VW_Golf_2\AI_VW_Golf_2.bus
+vehicles\VW_Golf_2\AI_VW_Golf_2.bus
+vehicles\VW_Golf_2\AI_VW_Golf_2.bus
+vehicles\MB_W123_230E\AI_mb_w123_230e.bus
+vehicles\MB_W123_230E\AI_mb_w123_230e.bus
+vehicles\MB_W123_230E\AI_mb_w123_230e.bus
 vehicles\VW_T3\VW_T3_Van.ovh
+vehicles\Opel_Manta_B\ai_opel_manta_b.ovh
+vehicles\Citr_BX\BX.ovh

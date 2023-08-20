@@ -1,4 +1,3 @@
-humans\axyz\man01.hum
 humans\axyz\man02.hum
 humans\axyz\woman01.hum
 humans\axyz\woman02.hum
@@ -11,3 +10,4 @@ humans\Other\man05.hum
 humans\other\woman02.hum
 humans\other\woman03.hum
 humans\other\woman04.hum
+humans\axyz\man01.hum

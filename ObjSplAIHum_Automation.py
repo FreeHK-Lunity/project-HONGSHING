@@ -18,7 +18,7 @@ import os
 '''
 
 
-path_of_map = 'maps\\project-HONGSHING\\'
+path_of_map = './maps/project-HONGSHING/'
 # Find all files with .txt extension in a directory
 files = [file for file in os.listdir(path_of_map) if file.endswith(".map")]
 #print(files)
@@ -72,7 +72,7 @@ for x in list_of_objects_used:
         list_of_objects_used_2.append(x)
 
 
-write_to_spline_txt = open('./Spline.txt', 'w', encoding='utf-8')
+write_to_spline_txt = open('./Splines.txt', 'w', encoding='utf-8')
 for x in list_of_splines_used_2:
     write_to_spline_txt.write(x+'\n')
 
@@ -85,7 +85,7 @@ for line in open_ai_list_2:
     if 'vehicles' in line:
         write_to_AICarandBus_txt.write(line)
 
-write_to_object_txt = open('./Object.txt', 'w', encoding='utf-8')
+write_to_object_txt = open('./Objects.txt', 'w', encoding='utf-8')
 for x in list_of_objects_used_2:
     write_to_object_txt.write(x+'\n')
 
