@@ -89,9 +89,9 @@ write_to_object_txt = open('./Objects.txt', 'w', encoding='utf-8')
 for x in list_of_objects_used_2:
     write_to_object_txt.write(x+'\n')
 
-humans_text = open(f'./{path_of_map}Humans.txt', 'r', encoding='utf-8')
+humans_text = open(f'{path_of_map}Humans.txt', 'r', encoding='utf-8')
 humans_text_2 = humans_text.readlines()
-drivers_text = open(f'./{path_of_map}Drivers.txt', 'r', encoding='utf-8')
+drivers_text = open(f'{path_of_map}Drivers.txt', 'r', encoding='utf-8')
 drivers_text_2 = drivers_text.readlines()
 write_to_humans_txt = open('./Humans.txt', 'w', encoding='utf-8')
 for i in humans_text_2 + drivers_text_2:
