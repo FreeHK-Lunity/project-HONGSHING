@@ -4,7 +4,7 @@ Welcome to the Project-HONGSHING OMSI2 map contribution guide! This guide will w
 
 To learn how to use Git to clone and push, click [here](https://github.com/FreeHK-Lunity/project-HONGSHING/blob/main/how-to-use-git.md)
 
-To learn how to push your changes, click here
+To learn how to push your changes, click [here](https://github.com/FreeHK-Lunity/project-HONGSHING/blob/main/how-to-PR.md)
 
 ## Note
 
