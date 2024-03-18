@@ -2,7 +2,7 @@
 
 Welcome to the Project-HONGSHING OMSI2 map contribution guide! This guide will walk you through the steps of contributing to the map.
 
-
+To learn how to use Git to clone and push, click [here](https://github.com/FreeHK-Lunity/project-HONGSHING/blob/main/how-to-use-git.md)
 
 ## Chapter 5: Submitting Your Pull Request
 
